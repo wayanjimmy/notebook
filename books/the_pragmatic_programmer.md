@@ -45,14 +45,18 @@ Don’t spoil a perfectly good program by overembellishment and over-refinement.
 5. Portfolios should be reviewed and rebalanced periodically
 
 #### Communicate
-1. **Know what you want to say**, Plan what you want to say, Write an outline. Then ask yourself, “Does it get across whatever I’m trying to say?” Refine it until it does
-2. **Know your audience**,
-*W*hat do you want them to learn?
-What is their *i*nterest in what you’ve got to say?
-How *s*ophisticated are they?
-How much *d*etail do they want?
-Whom do you want to *o*wn the information?
-How can you *m*otivate them to listen to you?
+
+1. Know what you want to say
+* Plan what you want to say, Write an outline. 
+* Then ask yourself, “Does it get across whatever I’m trying to say?” Refine it until it does
+
+2. Know your audience
+* What do you want them to learn?
+* What is their interest in what you’ve got to say?
+* How sophisticated are they?
+* How much detail do they want?
+* Whom do you want to own the information?
+* How can you motivate them to listen to you?
 
 ## Chapter 2 : A Pragmatic Approach
 #### Orthogonality
