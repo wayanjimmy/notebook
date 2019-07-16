@@ -20,6 +20,7 @@ docker run -i -t --rm -v (PWD):/usr/src/app ruby:2.6 bash
 
 # setelah didalam container
 gem install rails
+cd /usr/src/app
 rails new . --skip-test --skip-bundle
 ```
 
