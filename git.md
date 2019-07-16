@@ -1,6 +1,6 @@
 # Git
 
-#### Short git status
+Short git status
 ```
 git status -s
 ```
