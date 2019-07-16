@@ -1,11 +1,11 @@
 ## Docker for Rails Developer
 
-#### Menjalankan script ruby dengan docker
+Menjalankan script ruby dengan docker
 ```shell
 docker run ruby:2.6 ruby -e "puts 'hello'"
 ```
 
-#### Melihat daftar container yang berjalan
+Melihat daftar container yang berjalan
 ```shell
 docker ps
 
@@ -13,8 +13,7 @@ docker ps
 docker ps -a
 ```
 
-
-#### Membuat rails app dengan docker
+Membuat rails app dengan docker
 ```shell
 mkdir <project_name> && cd <project_name>
 docker run -i -t --rm -v (PWD):/usr/src/app ruby:2.6 bash
@@ -24,8 +23,7 @@ gem install rails
 rails new . --skip-test --skip-bundle
 ```
 
-
-#### Menjalankan rails app dengan Dockerfile
+Menjalankan rails app dengan Dockerfile
 ```dockerfile
 FROM ruby:2.6                                           
 
