@@ -1,6 +1,7 @@
-# Japanese
+Japanese
+========
 
-Doushita no ?  = Ada apa ?
+Doushita no ? = Ada apa ?
 
 Ohayou ogazaimasu = Selamat pagi
 

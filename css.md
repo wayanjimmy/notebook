@@ -1,4 +1,5 @@
-# CSS
+CSS
+===
 
 #### How to make Left and Right Half Layout
 
@@ -12,5 +13,3 @@ Solution with flexbox.
 	<div style="flex: 1;"></div>
 </div>
 ```
-
-

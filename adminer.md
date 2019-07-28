@@ -1,6 +1,8 @@
-# Adminer
+Adminer
+=======
 
 Run adminer on top of docker
+
 ```
 docker run -e "ADMINER_PLUGINS=dump-json" -p 8080:8080 -d adminer
 ```
@@ -10,6 +12,7 @@ Adding `ADMINER_PLUGINS=dump-json` , will install `dump-json` adminer plugins. I
 #### Problem when connecting to Mysql without password
 
 The latest version adminer force your database enabled with password, but if your current mysql is not have password yet, you can set the password using this commands.
+
 ```bash
 mysql -u root
 > USE mysql;
@@ -17,4 +20,3 @@ mysql -u root
 > FLUSH PRIVILEGES;
 > quit
 ```
-

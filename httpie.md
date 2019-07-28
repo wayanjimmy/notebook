@@ -1,4 +1,5 @@
-# Httpie
+Httpie
+======
 
 Create a simple request :
 
@@ -27,8 +28,8 @@ http POST /api/auth email=admin@root.com password=secret | fx 'json => json.meta
 ```
 
 in order to use the token on the next endpoint we can store the token in a shell variable, because I’m using fish shell so create a variable would be like this
+
 ```bash
 set -l auth_token (pbpaste)
 echo $auth_token
 ```
-

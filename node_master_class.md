@@ -1,6 +1,8 @@
-# Pirple Node Master Class Notes
+Pirple Node Master Class Notes
+==============================
 
 #### Url standard package
+
 ```javascript
 require('url').parse('/status?name=jimmy')
 Url {
@@ -20,7 +22,8 @@ Url {
 
 Notice that the `query` key from the Url object is a string.
 
-If you pass `true` to the second argument of `url.parse()`  method, It means to extract the query parameters from the query string.
+If you pass `true` to the second argument of `url.parse()` method, It means to extract the query parameters from the query string.
+
 ```javascript
 require('url').parse('/status?name=jimmy', true)
 Url {
@@ -37,4 +40,3 @@ Url {
   path: '/status?name=jimmy',
   href: '/status?name=jimmy' }
 ```
-

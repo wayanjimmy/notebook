@@ -1,6 +1,8 @@
-# Tmux & Vim
+Tmux & Vim
+==========
 
-## Vim
+Vim
+---
 
 Edit other file on the same directory with current file
 
@@ -9,8 +11,9 @@ Edit other file on the same directory with current file
 tabe %:h/${filename}
 ```
 
-## Tmux
+Tmux
+----
 
 #### Install tpm
- [https://github.com/tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) 
 
+[https://github.com/tmux-plugins/tpm](https://github.com/tmux-plugins/tpm)
