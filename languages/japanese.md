@@ -18,4 +18,3 @@ Watashi wa okane ga hoshii desu = saya ingin uang
 Tanoshinde kudasai = Selamat jalan-jalan, Selamat menikmati'
 
 Otsukaresama deshita = Kerja yang bagus, Terima kasih atas pekerjaan Anda
-
