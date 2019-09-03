@@ -17,3 +17,9 @@ Tmux
 #### Install tpm
 
 [https://github.com/tmux-plugins/tpm](https://github.com/tmux-plugins/tpm)
+
+#### shortcuts & cheatsheet
+
+```
+<prefix> f find window
+```
