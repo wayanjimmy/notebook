@@ -18,3 +18,9 @@ Watashi wa okane ga hoshii desu = saya ingin uang
 Tanoshinde kudasai = Selamat jalan-jalan, Selamat menikmati'
 
 Otsukaresama deshita = Kerja yang bagus, Terima kasih atas pekerjaan Anda
+
+Hai, watashi ganbaru!!
+
+#### Resources
+
+-	[Learn Hiragana: The Ultimate Guide](https://www.tofugu.com/japanese/learn-hiragana/)
