@@ -7,6 +7,12 @@ Short git status
 git status -s
 ```
 
+Delete multiple branches using a pattern
+
+```
+gb | rg 'put-pattern-here-' | xargs git branch -D
+```
+
 #### Git Branches
 
 Git commit contains pointer to the snapshot of the content you staged. This object also contains the author’s name and email address, the message that you typed, and pointers to the commit or commits that directly came before this commit (its parent or parents) : ::zero parents for the initial commit::, one parent for normal commit, and multiple parents for a commit that results from a merge of two or more branches.
