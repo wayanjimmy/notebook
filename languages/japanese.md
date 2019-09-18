@@ -15,9 +15,11 @@ Nani ga hoshii no desuka ? = Apa yang sedang kamu lakukan ?
 
 Watashi wa okane ga hoshii desu = saya ingin uang
 
-Tanoshinde kudasai = Selamat jalan-jalan, Selamat menikmati'
+Tanoshinde kudasai = Selamat jalan-jalan, Selamat menikmati
 
 Otsukaresama deshita = Kerja yang bagus, Terima kasih atas pekerjaan Anda
+
+Douitashimashite = Terimakasih kembali
 
 Hai, watashi ganbaru!!
 
