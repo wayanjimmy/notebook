@@ -1,4 +1,4 @@
-Skateboard
+Skateboard, Longboard & Cruiseboard
 ==========
 
 #### Links
