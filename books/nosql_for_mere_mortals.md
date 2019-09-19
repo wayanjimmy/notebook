@@ -23,3 +23,13 @@ Share superficial similarities to relational databases. The name of the first im
 #### Graph databases
 
 Well suited to modeling networks--that is, things connected to other things. The range of use cases spans computer communicationg with other computers to people interacting with each other.
+
+#### Data Management with Distributed Databases
+
+#### Balancing Response Times, Consistency, and Durability
+
+NoSQL databases often use the concept of quorums when working with reads and writes. A **quorum** is the number of servers that must respond to a read or write operation for the operation considered to be complete.
+
+The database counts the number of distinct response values and returns the one that meets or exceeds a configurable threshold.
+
+For example, assume data in a NoSQL database is replicated to five servers and you have set the read threshold to 3. As soon as three servers respond with the same response, the result is returned to the user.
