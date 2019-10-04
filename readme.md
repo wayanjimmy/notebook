@@ -1,4 +1,4 @@
-Personal notes
+personal notes
 ==============
 
 This is my personal knowledge base. I'll use here for remembering things and also letting my mind interact with yours. Feel free to open issues and pull requests!
