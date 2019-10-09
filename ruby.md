@@ -22,3 +22,5 @@ print multiple(2, 8)
 #### Links
 
 -	[Ruby’s Exceptional Creatures](https://www.exceptionalcreatures.com)
+-	[Write fast code ruby on rails](https://engineering.shopify.com/blogs/engineering/write-fast-code-ruby-rails)
+-	[Ruby on Rails development guide](https://ideamotive.co/ruby-on-rails-development-guide/?in-2019)
