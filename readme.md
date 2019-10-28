@@ -1,7 +1,7 @@
-personal notes
+Personal Notes
 ==============
 
-This is my personal knowledge base. I'll use here for remembering things and also letting my mind interact with yours. Feel free to open issues and pull requests!
+This repository is my knowledge base. I'm using it to remember things and to let my mind interact with yours. Feel free to open issues and pull requests!
 
 See Also
 --------
