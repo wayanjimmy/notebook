@@ -1,7 +1,7 @@
 Navigating the Hype Driven Frontend Development World Without Going Insane
 ==========================================================================
 
-- [Youtube URL](https://www.youtube.com/watch?v=QZ6aC6G0ufg)
+-	[Youtube URL](https://www.youtube.com/watch?v=QZ6aC6G0ufg)
 
 > At the end of the day we’re all code mongkeys trying to make weird libraries work together by writting shitty hacks
 
