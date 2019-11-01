@@ -10,3 +10,9 @@ Restore dumped mongodb database into your local mongo instance. Replace backup w
 ```bash
 mongorestore backup/ --host localhost:9001
 ```
+
+To restore from a compressed archive file, run `mongorestore` with both the `--gzip` command and the `--archive` options.
+
+```bash
+mongorestore --gzip --archive=1572541233.gz --host localhost:9001
+```
