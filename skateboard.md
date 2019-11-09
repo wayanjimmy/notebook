@@ -1,7 +1,7 @@
 Skateboard, Longboard & Cruiseboard
 ===================================
 
--	When rains don't cruise, it's not goof for the bearings
+-	When rains don't cruise, it's not good for the bearings
 
 #### Links
 
