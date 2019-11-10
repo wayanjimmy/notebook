@@ -26,3 +26,7 @@ Penitipan barang.
 -	Rocca Space
 
 Jika ada festival lebih aman masuk melalui pintu 4.
+
+### KRL
+
+-	Minimal saldo kartu flazz = Rp 5.000,00
