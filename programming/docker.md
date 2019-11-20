@@ -93,3 +93,12 @@ RUN bundle install
 
 CMD ["bin/rails", "s", "-b", "0.0.0.0"]
 ```
+
+Docker for Mac
+--------------
+
+Docker for Mac Desktop Native memiliki masalah pada storage yang agak lambat
+
+Solusi: Gunakan docker toolbox yang menggunakan virtualbox, bukan hyperkit
+
+-	[Docker toolbox](https://docs.docker.com/docker-for-mac/docker-toolbox)
