@@ -9,6 +9,7 @@ Books
 -	How U.S. Navy SEALs Lead and Win
 -	Making Things Happen
 -	NoSQL for Mere Mortal
+- Pro Git
 
 #### Reading
 
