@@ -10,6 +10,7 @@ Books
 -	Making Things Happen
 -	NoSQL for Mere Mortal
 -	Pro Git
+-	MIT Structure and Interpretation of Computer Programs
 
 #### Reading
 
