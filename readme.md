@@ -7,6 +7,6 @@ See Also
 --------
 
 -	[meta-knowledge](https://github.com/RichardLitt/meta-knowledge) lists other notebooks. Check them out!
+-	[Nikita](https://nikitavoloboev.xyz) - My favorite.
+-	[Gwern](https://www.gwern.net) - The research monster.
 -	[Dmitrii Gerasimov](https://beepb00p.xyz)
--	[Gwern](https://www.gwern.net)
--	[Nikita](https://nikitavoloboev.xyz)
