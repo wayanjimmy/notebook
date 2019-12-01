@@ -15,6 +15,7 @@ Work
 -	If my mind wanders and avoids doing the task, take a walk and do some exercise.
 -	Ship early. Get feedback and iterate on it. Repeat.
 -	Never sit for too long.
+-	Don't overthink things. Clear up any confusions. Don't be stuck. Ask for help.
 
 Travel
 ------
