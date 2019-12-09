@@ -6,6 +6,14 @@ Programming Fonts
 
 -	[Cascadia Code](https://github.com/microsoft/cascadia-code), I use it on Iterm
 
+Apps
+----
+
+-	[Kelir](https://rimbunesia.com/apps/kelir-color-picker-for-mac/)
+-	[Tripmode](https://www.tripmode.ch)
+-	[Marta](https://marta.yanex.org/)
+-	[Kap](https://getkap.co/)
+
 Accidents
 ---------
 
