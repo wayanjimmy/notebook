@@ -29,3 +29,5 @@ Watching
 
 Planned
 -------
+
+-	[Barakamon](https://myanimelist.net/anime/22789/Barakamon)
