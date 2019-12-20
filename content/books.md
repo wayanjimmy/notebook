@@ -1,6 +1,3 @@
-Books
-=====
-
 #### Wants to read
 
 -	The philosophy of crayon

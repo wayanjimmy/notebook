@@ -1,0 +1,2 @@
+- [Japanese](/languages/japanese)
+
