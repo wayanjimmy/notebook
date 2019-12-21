@@ -1,9 +1,7 @@
-It’s okay to feel unproductive
-==============================
-
 Taken from the [Funfunfunction Youtube](https://youtu.be/oAt5E2xrXH8)
 
-#### Highlights
+Takeaways
+---
 
 -	not getting too caught in the idea of satisfying work
 -	view your work as a process

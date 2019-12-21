@@ -1,12 +1,12 @@
 const config = {
   gatsby: {
     pathPrefix: "/",
-    siteUrl: "https://learn.hasura.io",
+    siteUrl: "https://wayanjimmy-notebook.netlify.com",
     gaTrackingId: null
   },
   header: {
     logo: "",
-    logoLink: "https://learn.hasura.io",
+    logoLink: "https://wayanjimmy-notebook.netlify.com",
     title: "Notebook",
     githubUrl: "https://github.com/wayanjimmy/notebook",
     helpUrl: "",
@@ -31,7 +31,10 @@ const config = {
       "/books",
       "/health"
     ],
-    links: [{ text: "Hasura", link: "https://hasura.io" }],
+    links: [
+      { text: "wayanjimmy.gitlab.io", link: "https://wayanjimmy.gitlab.io" },
+      { text: "wayanjimmy.netlify.com", link: "https://wayanjimmy.netlify.com" }
+    ],
     frontline: false,
     ignoreIndex: true
   },

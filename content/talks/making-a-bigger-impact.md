@@ -1,6 +1,3 @@
-Making a bigger Impact
-======================
-
 3 ( + 1 ) Hal yang harus dipelajari untuk meningkatkan karir
 
 -	Excellence ( +1 )
@@ -8,7 +5,8 @@ Making a bigger Impact
 -	Articulate Communication
 -	Influence
 
-#### Excellence
+Excellence
+---
 
 Latih kemampuan sebuah bidang secara tekun dan terus menerus hingga menjadi expert.
 
@@ -16,7 +14,8 @@ Latih kemampuan sebuah bidang secara tekun dan terus menerus hingga menjadi expe
 
 Analogi pemain basket yang sebelum bertanding melakukan latihan sebanyak 100x memasukan bola ke ring, dari 100x masuk 93x, kejarlah "excellence" hingga mendekati sempurna.
 
-#### Organization & Planning
+Organization & Planning
+---
 
 Hindari alur informasi yang broadcast atau terkirim dari satu orang ke orang lain membuat kemungkinan informasi yang diberikan berbeda-beda.
 
@@ -29,7 +28,8 @@ Saran bacaan untuk emotional ownership:
 -	Extreme Ownership
 -	Making things happen (lebih teknikal)
 
-#### Articulate Communication
+Articulate Communication
+---
 
 Dalam berkomunikasi gunakan filosofi 4A
 
@@ -64,7 +64,8 @@ Rekomendasi Buku:
 -	The new Articulate Executive
 -	On Writing Well
 
-#### Influence
+Influence
+---
 
 Salah satu kelemahan engineer adalah tidak ingin terlibat politik di organisasi. Padahal dengan terlibat politik dapat membuka akses untuk mempengaruhi organisasi.
 
@@ -75,7 +76,8 @@ Rekomendasi Bukua
 -	Beyond Office Politics
 -	Getting More, How to negotiate to achieve your goals in the real world
 
-#### Links
+Links
+---
 
 -	[Speakerdeck](https://speakerdeck.com/ariya/making-a-bigger-impact)
 -	[Teknik Presentasi yang Memikat](https://youtu.be/cUjewztqx14)
