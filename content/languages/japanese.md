@@ -1,6 +1,3 @@
-Japanese
-========
-
 Doushita no ? = Ada apa ?
 
 Ohayou ogazaimasu = Selamat pagi
@@ -23,6 +20,7 @@ Douitashimashite = Terimakasih kembali
 
 Hai, watashi ganbaru!!
 
-#### Resources
+Links
+---
 
 -	[Learn Hiragana: The Ultimate Guide](https://www.tofugu.com/japanese/learn-hiragana/)
