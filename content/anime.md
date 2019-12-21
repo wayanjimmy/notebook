@@ -36,3 +36,5 @@ Planned
 -------
 
 -	[Barakamon](https://myanimelist.net/anime/22789/Barakamon)
+- [Code Geass](https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch)
+- [Full Metal Alchemist](https://myanimelist.net/anime/121/Fullmetal_Alchemist)
