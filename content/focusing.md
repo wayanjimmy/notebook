@@ -21,4 +21,3 @@ Travel
 ------
 
 -	Mark [places I've liked](https://goo.gl/maps/c388tugi1f41PWCB8) in Google Maps with optional notes about them.
-- [Dari Halte ke Halte](https://www.google.com/maps/d/viewer?mid=1hzwnGubAZSHZRJqWcvyp5C2UUlAHSyqp&shorturl=1)
