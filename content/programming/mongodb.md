@@ -1,3 +1,9 @@
+---
+title: "Mongodb"
+metaTitle: "Mongodb"
+metaDescription: "Mongodb"
+---
+
 Install mongodb cli on the system
 
 -	[Install Mongodb on MacOS](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x)

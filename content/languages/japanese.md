@@ -1,3 +1,9 @@
+---
+title: "Japanese"
+metaTitle: "Japanese"
+metaDescription: "Learn Japanese"
+---
+
 Doushita no ? = Ada apa ?
 
 Ohayou ogazaimasu = Selamat pagi

@@ -1,3 +1,9 @@
+---
+title: "Clean Code"
+metaTitle: "Clean Code"
+metaDescription: "A Handbook of Agile Software Craftmanship by Robert C. Martin"
+---
+
 Introduction
 ---
 

@@ -1,3 +1,9 @@
+---
+title: "Skin Care"
+metaTitle: "Skin Care"
+metaDescription: "Skin Care Routine"
+---
+
 Skin Care
 =========
 

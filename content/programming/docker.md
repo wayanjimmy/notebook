@@ -1,3 +1,9 @@
+---
+title: "Docker"
+metaTitle: "Docker"
+metaDescription: "Docker"
+---
+
 Docker for Rails Developer
 --------------------------
 
@@ -31,15 +37,15 @@ rails new . --skip-test --skip-bundle
 Menjalankan rails app dengan Dockerfile
 
 ```dockerfile
-FROM ruby:2.6                                           
+FROM ruby:2.6
 
-RUN apt-get update -yqq                                 
-RUN apt-get install -yqq --no-install-recommends nodejs 
+RUN apt-get update -yqq
+RUN apt-get install -yqq --no-install-recommends nodejs
 
-COPY . /usr/src/app/                                    
+COPY . /usr/src/app/
 
-WORKDIR /usr/src/app                                    
-RUN bundle install 
+WORKDIR /usr/src/app
+RUN bundle install
 ```
 
 Kemudian build custom image dari dockerfile diatas dengan perintah berikut.
@@ -81,15 +87,15 @@ docker build -t railsapp -t railsapp:1.0 .
 Menambahkan default command ke Dockerfile untuk menghindari start rails server secara manual setiap menjalankan container
 
 ```dockerfile
-FROM ruby:2.6                                           
+FROM ruby:2.6
 
-RUN apt-get update -yqq                                 
-RUN apt-get install -yqq --no-install-recommends nodejs 
+RUN apt-get update -yqq
+RUN apt-get install -yqq --no-install-recommends nodejs
 
-COPY . /usr/src/app/                                    
+COPY . /usr/src/app/
 
-WORKDIR /usr/src/app                                    
-RUN bundle install 
+WORKDIR /usr/src/app
+RUN bundle install
 
 CMD ["bin/rails", "s", "-b", "0.0.0.0"]
 ```

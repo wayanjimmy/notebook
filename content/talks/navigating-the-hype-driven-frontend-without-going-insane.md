@@ -1,3 +1,9 @@
+---
+title: "Navigating The Hype Driven Frontend Without Going Insane"
+metaTitle: "Navigating The Hype Driven Frontend Without Going Insane"
+metaDescription: "Navigating The Hype Driven Frontend Without Going Insane"
+---
+
 -	[Youtube URL](https://www.youtube.com/watch?v=QZ6aC6G0ufg)
 
 > At the end of the day we’re all code mongkeys trying to make weird libraries work together by writting shitty hacks

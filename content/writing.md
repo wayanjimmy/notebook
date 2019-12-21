@@ -1,3 +1,9 @@
+---
+title: "Writing"
+metaTitle: "Writing"
+metaDescription: "Writing"
+---
+
 Links
 ---
 

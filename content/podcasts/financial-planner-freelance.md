@@ -1,5 +1,8 @@
-Financial Planner Freelance
-===========================
+---
+title: "Financial Planner Freelance"
+metaTitle: "Financial Planner Freelance"
+metaDescription: "Financial Planner Freelance"
+---
 
 > Tukar dana aktif dengan pasif + investasi
 

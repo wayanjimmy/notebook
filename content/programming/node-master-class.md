@@ -1,3 +1,9 @@
+---
+title: "Node Master Class"
+metaTitle: "Node Master Class"
+metaDescription: "Node Master Class"
+---
+
 Url standard package
 ---
 

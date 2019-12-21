@@ -1,3 +1,9 @@
+---
+title: "Go"
+metaTitle: "Go"
+metaDescription: "Go"
+---
+
 Links
 ---
 

@@ -1,3 +1,9 @@
+---
+title: "Git"
+metaTitle: "Git"
+metaDescription: "Git"
+---
+
 Short git status
 
 ```

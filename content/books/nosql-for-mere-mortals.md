@@ -1,3 +1,9 @@
+---
+title: "Effective Engineering"
+metaTitle: "Effective Engineering"
+metaDescription: "Effective Engineering by Edmond Lau"
+---
+
 NoSQL databases fall into 4 broad categories :
 
 -	key-value

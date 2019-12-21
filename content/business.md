@@ -1,3 +1,9 @@
+---
+title: "Business"
+metaTitle: "Business"
+metaDescription: "Business"
+---
+
 Bootstrapping
 ---
 

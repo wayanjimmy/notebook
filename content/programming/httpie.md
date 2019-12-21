@@ -1,3 +1,9 @@
+---
+title: "Httpie"
+metaTitle: "Httpie"
+metaDescription: "Httpie"
+---
+
 Create a simple request :
 
 ```bash

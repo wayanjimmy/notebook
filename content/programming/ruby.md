@@ -1,3 +1,9 @@
+---
+title: "Ruby"
+metaTitle: "Ruby"
+metaDescription: "Ruby"
+---
+
 ```
 x = "100".to_i
 ```

@@ -1,3 +1,9 @@
+---
+title: "Adminer"
+metaTitle: "Adminer"
+metaDescription: "Adminer"
+---
+
 Run adminer on top of docker
 
 ```

@@ -1,3 +1,9 @@
+---
+title: "The Pragmatic Programmer"
+metaTitle: "The Pragmatic Programmer"
+metaDescription: "The Pragmatic Programmer"
+---
+
 **Think** about your work.
 
 If you’re a pragmatic programmer, you’ll share many of the following characteristics :

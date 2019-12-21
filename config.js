@@ -2,7 +2,7 @@ const config = {
   gatsby: {
     pathPrefix: "/",
     siteUrl: "https://wayanjimmy-notebook.netlify.com",
-    gaTrackingId: null
+    gaTrackingId: "UA-154878946-1"
   },
   header: {
     logo: "",

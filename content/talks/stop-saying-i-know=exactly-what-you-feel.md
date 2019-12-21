@@ -1,3 +1,9 @@
+---
+title: "Stop Saying I Know Exactly What You Feel"
+metaTitle: "Stop Saying I Know Exactly What You Feel"
+metaDescription: "Stop Saying I Know Exactly What You Feel"
+---
+
 Socioliogist **Charles Derber** describes this tendency as “conversational narcissism.” Often subtle and unconscious, it’s the desire to take over a conversation, to do most of talking, and to turn the focus of the exchange to yourself.
 
 There are 2 responses in conversation:

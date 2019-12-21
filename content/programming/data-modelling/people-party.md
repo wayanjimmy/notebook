@@ -1,3 +1,9 @@
+---
+title: "People Party"
+metaTitle: "People Party"
+metaDescription: "People Party"
+---
+
 Party
 ---
 

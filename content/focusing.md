@@ -1,3 +1,9 @@
+---
+title: "Focusing"
+metaTitle: "Focusing"
+metaDescription: "Focusing"
+---
+
 Rules
 =====
 

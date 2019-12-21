@@ -1,3 +1,9 @@
+---
+title: "Real World Laravel"
+metaTitle: "Real World Laravel"
+metaDescription: "Real World Laravel"
+---
+
 -	[Flarepoint CRM](https://github.com/Bottelet/flarepoint-crm)
 -	[Akaunting](https://github.com/akaunting/akaunting)
 -	[Laravel Shop](https://github.com/summerblue/laravel-shop)

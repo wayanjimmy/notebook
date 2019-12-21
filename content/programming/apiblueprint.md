@@ -1,3 +1,9 @@
+---
+title: "API Blueprint"
+metaTitle: "API Blueprint"
+metaDescription: "API Blueprint"
+---
+
 Links
 ---
 

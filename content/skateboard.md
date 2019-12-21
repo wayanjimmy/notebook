@@ -1,3 +1,9 @@
+---
+title: "Skateboard"
+metaTitle: "Skateboard"
+metaDescription: "Skateboard, Longboarding, and Cruise Board"
+---
+
 -	When rains don't cruise, it's not good for the bearings
 
 Skateshop

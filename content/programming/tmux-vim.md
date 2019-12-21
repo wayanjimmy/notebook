@@ -1,3 +1,9 @@
+---
+title: "Tmux & Vim"
+metaTitle: "Tmux & Vim"
+metaDescription: "Tmux & Vim"
+---
+
 Vim
 ---
 

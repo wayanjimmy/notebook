@@ -1,3 +1,9 @@
+---
+title: "It's Okay To Feel Unproductive"
+metaTitle: "It's Okay To Feel Unproductive"
+metaDescription: "It's Okay To Feel Unproductive by Funfunfunction"
+---
+
 Taken from the [Funfunfunction Youtube](https://youtu.be/oAt5E2xrXH8)
 
 Takeaways

@@ -1,3 +1,9 @@
+---
+title: "Anime"
+metaTitle: "Anime"
+metaDescription: "I keep the list of my favorites and want to watch on this note."
+---
+
 I love to spend time watching Anime. I keep the list of my favorites and want to watch on this note.
 
 Favorites

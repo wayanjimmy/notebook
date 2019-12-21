@@ -1,5 +1,8 @@
-Analytical & Critical Thinking Skills
-=====================================
+---
+title: "Analytical & Critical Thinking Skills"
+metaTitle: "Analytical & Critical Thinking Skills"
+metaDescription: "Analytical & Critical Thinking Skills by Afu"
+---
 
 #### Cara Memulai Menulis
 

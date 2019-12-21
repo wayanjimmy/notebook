@@ -1,4 +1,11 @@
-#### Wants to read
+---
+title: "Books"
+metaTitle: "Books"
+metaDescription: "Books"
+---
+
+Wants to read
+---
 
 -	The philosophy of crayon
 -	Sprint
@@ -9,12 +16,14 @@
 -	Pro Git
 -	MIT Structure and Interpretation of Computer Programs
 
-#### Reading
+Reading
+---
 
 -	Clean Code
 -	Pragmatic Programmer
 -	Buddishm Plain and Simple
 
-#### Done
+Done
+---
 
 -	88 Love Life
