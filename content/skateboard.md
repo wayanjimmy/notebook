@@ -1,15 +1,14 @@
-Skateboard, Longboard & Cruiseboard
-===================================
-
 -	When rains don't cruise, it's not good for the bearings
 
-#### Skateshop
+Skateshop
+---
 
 -	[Donkey Skateshop - Bali](https://instagram.com/donkey_skateshop)
 -	[Watermelon Boardshop - Jakarta](https://www.instagram.com/watermelonboardshop/)
 -	[Galayastore - Jakarta](https://www.tokopedia.com/galayastore)
 
-#### Links
+Links
+---
 
 -	[Best Longboards Beginners](https://longboardbrand.com/best-longboards-beginners)
 -	[How to Choose the Best Beginner Longboard](https://www.youtube.com/watch?v=93Qd0aNAmuw)
