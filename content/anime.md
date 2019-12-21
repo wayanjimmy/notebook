@@ -1,7 +1,4 @@
-Anime
-=====
-
-I love to spend time watching Anime. I keep the list of my favorites and want to watch to this note.
+I love to spend time watching Anime. I keep the list of my favorites and want to watch on this note.
 
 Favorites
 ---------
@@ -17,6 +14,7 @@ Favorites
 -	[Shigatsu wa Kimi no Uso](https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso)
 -	[Working!!](https://myanimelist.net/anime/6956/Working)
 -	[Tsurezure_Children](https://myanimelist.net/anime/34902/Tsurezure_Children)
+- [Sword Art Online: Alicization](https://myanimelist.net/anime/36474/Sword_Art_Online__Alicization)
 
 Watching
 --------
@@ -26,6 +24,7 @@ Watching
 -	[Shingeki no Kyojin](https://myanimelist.net/anime/16498/Shingeki_no_Kyojin)
 -	[Karakai Jouzu no Takagi-san](https://myanimelist.net/anime/35860/Karakai_Jouzu_no_Takagi-san)
 -	[Dr. Stone](https://myanimelist.net/anime/38691/Dr_Stone)
+- [Sword Art Online: Alicization War of Underworld](https://myanimelist.net/anime/39597/Sword_Art_Online__Alicization_-_War_of_Underworld)
 
 Planned
 -------
