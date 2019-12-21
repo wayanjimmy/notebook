@@ -1,6 +1,3 @@
-Tmux & Vim
-==========
-
 Vim
 ---
 
@@ -14,16 +11,19 @@ tabe %:h/${filename}
 Tmux
 ----
 
-#### Install tpm
+Install tpm
+---
 
 [https://github.com/tmux-plugins/tpm](https://github.com/tmux-plugins/tpm)
 
-#### shortcuts & cheatsheet
+shortcuts & cheatsheet
+---
 
 ```
 <prefix> f find window
 ```
 
-#### Links
+Links
+---
 
--	[tmuxcheaatsheet](https://tmuxcheatsheet.com)
+-	[tmux-cheatsheet](https://tmuxcheatsheet.com)

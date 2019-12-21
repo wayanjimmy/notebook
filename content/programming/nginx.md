@@ -1,6 +1,3 @@
-Nginx
-=====
-
 Start nginx service
 
 ```

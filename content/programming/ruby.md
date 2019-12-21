@@ -1,6 +1,3 @@
-Ruby
-====
-
 ```
 x = "100".to_i
 ```
@@ -19,7 +16,8 @@ end
 print multiple(2, 8)
 ```
 
-#### Links
+Links
+---
 
 -	[Ruby’s Exceptional Creatures](https://www.exceptionalcreatures.com)
 -	[Write fast code ruby on rails](https://engineering.shopify.com/blogs/engineering/write-fast-code-ruby-rails)

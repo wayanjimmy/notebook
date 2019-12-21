@@ -1,6 +1,3 @@
-Httpie
-======
-
 Create a simple request :
 
 ```bash
@@ -19,7 +16,8 @@ Submit form :
 $ http -f POST example.org hello=World
 ```
 
-#### Combine with fx
+Combine with fx
+---
 
 [GitHub - antonmedv/fx: Command-line tool and terminal JSON viewer 🔥](https://github.com/antonmedv/fx)
 

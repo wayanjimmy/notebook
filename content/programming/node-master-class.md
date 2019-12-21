@@ -1,7 +1,5 @@
-Pirple Node Master Class Notes
-==============================
-
-#### Url standard package
+Url standard package
+---
 
 ```javascript
 require('url').parse('/status?name=jimmy')

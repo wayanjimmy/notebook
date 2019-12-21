@@ -1,9 +1,3 @@
-Manajemen Modern dengan Scrum
-=============================
-
-Profesionalisme dalam software development
-------------------------------------------
-
 Profesionalisme dalam industri software development sama pentingnya dengan di dunia kedokteran maupun dunia aviasi.
 
 Ada 3 alasan kenapa sebuah software bisa memiliki kualitas yang rendah.

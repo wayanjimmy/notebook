@@ -1,6 +1,3 @@
-Real world Laravel
-==================
-
 -	[Flarepoint CRM](https://github.com/Bottelet/flarepoint-crm)
 -	[Akaunting](https://github.com/akaunting/akaunting)
 -	[Laravel Shop](https://github.com/summerblue/laravel-shop)

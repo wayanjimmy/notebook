@@ -1,6 +1,3 @@
-Why we should all stop saying I know exactly how you feel
-=========================================================
-
 Socioliogist **Charles Derber** describes this tendency as “conversational narcissism.” Often subtle and unconscious, it’s the desire to take over a conversation, to do most of talking, and to turn the focus of the exchange to yourself.
 
 There are 2 responses in conversation:

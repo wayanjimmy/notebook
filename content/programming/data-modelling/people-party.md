@@ -1,7 +1,5 @@
-Data Model
-==========
-
-#### Party
+Party
+---
 
 Sebuah entitas Person bisa tergabung pada lebih dari satu perusahaan Maka akan lebih back jika di buat perpanjangan entitas yang dapat disebut dengan Party Seperti diterangkan pada buku Martin Fowler
 

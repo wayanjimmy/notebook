@@ -1,6 +1,3 @@
-12 Pillar of Self Discipline
-============================
-
 > When you focus on the small scale actions over a consistent period of time, you become the best friend’s with exponential growth.
 
 this is how the principle of small scale works :

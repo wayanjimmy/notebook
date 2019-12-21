@@ -1,6 +1,3 @@
-Vagrant
-=======
-
 Basic vagrant box using Ubuntu 16.04 as a base
 
 ```
