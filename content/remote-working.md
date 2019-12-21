@@ -1,6 +1,4 @@
-Remote Working
-==============
-
-#### Links
+Links
+---
 
 -	[Lookahead](http://lookahead.com.au/)

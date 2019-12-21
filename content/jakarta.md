@@ -1,8 +1,4 @@
-Jakarta
-=======
-
-Getting Around
---------------
+## Getting Around
 
 ### Ojek & Taxi
 
@@ -15,8 +11,11 @@ Install aplikasi berikut.
 
 ### MRT
 
-Jogging Track
--------------
+### KRL
+
+-	Minimal saldo kartu flazz = Rp 5.000,00
+
+## Jogging Track
 
 ### GBK (Gelora Bung Karno)
 
@@ -26,7 +25,3 @@ Penitipan barang.
 -	Rocca Space
 
 Jika ada festival lebih aman masuk melalui pintu 4.
-
-### KRL
-
--	Minimal saldo kartu flazz = Rp 5.000,00
