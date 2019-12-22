@@ -13,15 +13,16 @@ Wants to read
 -	How U.S. Navy SEALs Lead and Win
 -	Making Things Happen
 -	NoSQL for Mere Mortal
--	Pro Git
 -	MIT Structure and Interpretation of Computer Programs
+-	Buddishm Plain and Simple
+-	Clean Code
+-	Pragmatic Programmer
 
 Reading
 ---
 
--	Clean Code
--	Pragmatic Programmer
--	Buddishm Plain and Simple
+- Atomic Habits
+- Pro Git
 
 Done
 ---
