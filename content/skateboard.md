@@ -1,6 +1,6 @@
 ---
-title: "Skateboard"
-metaTitle: "Skateboard"
+title: "Skateboard, Longboard & Cruise board"
+metaTitle: "Skateboard, Longboard & Cruise board"
 metaDescription: "Skateboard, Longboarding, and Cruise Board"
 ---
 
