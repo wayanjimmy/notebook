@@ -22,11 +22,9 @@ But beware if you shift focus to your self repeatedly the healthy balance will g
 Celeste: 10 ways to have a better conversation
 ----------------------------------------------
 
-1.	Don’t multitask Be present, be in that moment If you want to get out the conversation, get out, don’t be half in it.
-2.	Don’t
+- Don’t multitask, Be present, be in that moment If you want to get out the conversation, get out, don’t be half in it.
 
 > If you’re mouth is open you’re not learning - Buddha
->
 > A good conversation is like a miniskirt; short enough to retain interest, but long enough to cover the subject. - Celeste Headlee’s Sister
 
 Links
