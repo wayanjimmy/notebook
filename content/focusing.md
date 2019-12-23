@@ -11,7 +11,7 @@ Life
 ----
 
 -	Take & Give
-- Eat well, move more and worrly less.
+- Eat well, move more and worry less.
 
 Work
 ----
