@@ -5,7 +5,7 @@ const config = {
     gaTrackingId: "UA-154878946-1"
   },
   header: {
-    logo: "",
+    logo: "https://avatars2.githubusercontent.com/u/1282808?s=460&v=4",
     logoLink: "https://wayanjimmy-notebook.netlify.com",
     title: "Notebook",
     githubUrl: "https://github.com/wayanjimmy/notebook",
