@@ -36,3 +36,8 @@ Penitipan barang:
 -	Rocca Space (20rb).
 
 Jika ada festival/event disarankan masuk melalui pintu 4 untuk menghindari keramaian.
+
+Links
+---
+
+- [Daftar tempat wifian di Jakarta](https://github.com/wahyupermadie/wifian-dijakarta)
