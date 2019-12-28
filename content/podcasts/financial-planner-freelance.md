@@ -1,8 +1,10 @@
 ---
-title: "Financial Planner Freelance"
-metaTitle: "Financial Planner Freelance"
-metaDescription: "Financial Planner Freelance"
+title: "Financial Planning for Freelance"
+metaTitle: "Financial Planning for Freelance"
+metaDescription: "Financial Planning for Freelance"
 ---
+
+Catatan podcast Financial Planning for Freelance di aplikasi [Insigo](https://play.google.com/store/apps/details?id=id.co.inspigo.android.production)
 
 > Tukar dana aktif dengan pasif + investasi
 
