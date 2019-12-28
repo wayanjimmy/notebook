@@ -4,6 +4,12 @@ metaTitle: "Talks"
 metaDescription: "Talks"
 ---
 
+- [It's okay to feel unproductive](talks/its-okay-to-feel-unproductive)
+- [Making a bigger impact](talks/making-a-bigger-impact)
+- [Navigating the hype driven frontend without going insane](talks/navigating-the-hype-driven-frontend-without-going-insane)
+- [Smartsync workshop](talks/smartsync-workshop)
+- [Stop saying I know exactly what you feel](talks/stop-saying-i-know=exactly-what-you-feel)
+
 Favorite
 --------
 
