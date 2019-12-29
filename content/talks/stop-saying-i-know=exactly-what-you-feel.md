@@ -13,19 +13,18 @@ There are 2 responses in conversation:
 
 Avoid shift response as long as you can
 
-> We can craftily disguise our attempts to shift focus - we might start a sentence with a supportive remark and then follow up with a comment about ourselves.
+- We can craftily disguise our attempts to shift focus - we might start a sentence with a supportive remark and then follow up with a comment about ourselves.
 
 But beware if you shift focus to your self repeatedly the healthy balance will go.
 
-> The more comfortable you are the more difficult it is to empathize with suffering of another
+- The more comfortable you are the more difficult it is to empathize with suffering of another
 
 Celeste: 10 ways to have a better conversation
 ----------------------------------------------
 
 - Don’t multitask, Be present, be in that moment If you want to get out the conversation, get out, don’t be half in it.
-
-> If you’re mouth is open you’re not learning - Buddha
-> A good conversation is like a miniskirt; short enough to retain interest, but long enough to cover the subject. - Celeste Headlee’s Sister
+- If you’re mouth is open you’re not learning - Buddha
+- A good conversation is like a miniskirt; short enough to retain interest, but long enough to cover the subject. - Celeste Headlee’s Sister
 
 Links
 -----
