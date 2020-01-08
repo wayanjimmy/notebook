@@ -24,3 +24,7 @@ mysql -u root
 > FLUSH PRIVILEGES;
 > quit
 ```
+
+#### Links
+
+- [Themes](https://github.com/pappu687/adminer-theme)

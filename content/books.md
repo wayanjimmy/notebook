@@ -7,6 +7,7 @@ metaDescription: "Books"
 Wants to read
 ---
 
+- [The CSS3 Anthology](https://learning.oreilly.com/library/view/the-css3-anthology/9780987153029/)
 -	The philosophy of crayon
 -	Sprint
 -	The Manager Path
