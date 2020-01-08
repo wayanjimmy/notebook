@@ -43,7 +43,7 @@ const config = {
     description: "Personal knowledge base",
     ogImage: null,
     docsLocation:
-      "https://github.com/hasura/gatsby-gitbook-boilerplate/tree/master/content",
+      "https://github.com/wayanjimmy/notebook/tree/master/content",
     favicon: "https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg"
   },
   pwa: {
