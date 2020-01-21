@@ -22,6 +22,7 @@ Favorites
 - [Sword Art Online: Alicization](https://myanimelist.net/anime/36474/Sword_Art_Online__Alicization)
 -	[Yahari Ore no Seishun Love Comedy wa Machigatteiru](https://myanimelist.net/anime/14813/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru)
 -	[Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai](https://myanimelist.net/anime/9989/Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai)
+- [Hanebado](https://myanimelist.net/anime/37259/Hanebado)
 
 Watching
 --------
@@ -32,6 +33,7 @@ Watching
 -	[Himouto! Umaru-chan](https://myanimelist.net/anime/28825/Himouto_Umaru-chan)
 -	[Karakai Jouzu no Takagi-san](https://myanimelist.net/anime/35860/Karakai_Jouzu_no_Takagi-san)
 - [Sword Art Online: Alicization War of Underworld](https://myanimelist.net/anime/39597/Sword_Art_Online__Alicization_-_War_of_Underworld)
+- [Haikyuu](https://myanimelist.net/anime/20583/Haikyuu)
 
 Planned
 -------
