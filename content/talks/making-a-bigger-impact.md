@@ -29,7 +29,7 @@ Gunakan Centralized Dashboard sehingga alur informasi menjadi ditarik oleh pener
 
 Tumbuhkan emotional ownership terhadap project.
 
-Saran bacaan berupa buku untuk emotional ownership:
+Rekomendasi Buku:
 
 -	[Extreme Ownership](https://www.bookdepository.com/Extreme-Ownership-Jocko-Willink/9781250183866)
 -	[Making things happen](https://www.bookdepository.com/Making-Things-Happen-Scott-Berkun/9780596517717)
@@ -77,7 +77,7 @@ Salah satu kelemahan engineer adalah tidak ingin terlibat politik di organisasi.
 
 Jangan sampai keputusan bisnis dibuat tanpa memperhitungkan sisi teknologi karena kurangnya engineer yang memegang posisi penting dalam organisasi.
 
-Rekomendasi Bukua
+Rekomendasi Buku:
 
 -	[Beyond Office Politics](https://www.goodreads.com/book/show/15840574-beyond-office-politics)
 -	[Getting More, How to negotiate to achieve your goals in the real world](https://www.goodreads.com/book/show/8095067-getting-more)
