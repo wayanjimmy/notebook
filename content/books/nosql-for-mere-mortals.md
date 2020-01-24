@@ -1,7 +1,7 @@
 ---
-title: "Effective Engineering"
-metaTitle: "Effective Engineering"
-metaDescription: "Effective Engineering by Edmond Lau"
+title: "NoSQL for Mere Mortals"
+metaTitle: "NoSQL for Mere Mortals"
+metaDescription: "NoSQL for Mere Mortals""
 ---
 
 NoSQL databases fall into 4 broad categories :
