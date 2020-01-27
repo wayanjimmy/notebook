@@ -42,3 +42,8 @@ NoSQL databases often use the concept of quorums when working with reads and wri
 The database counts the number of distinct response values and returns the one that meets or exceeds a configurable threshold.
 
 For example, assume data in a NoSQL database is replicated to five servers and you have set the read threshold to 3. As soon as three servers respond with the same response, the result is returned to the user.
+
+
+Links
+---
+* [Nosql for Mere Mortals](https://learning.oreilly.com/library/view/nosql-for-mere/9780134029894/)
