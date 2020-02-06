@@ -47,17 +47,15 @@ yang voting dotsnya paling banyak, pindahkan posisinya paling atas.
 
 ![](images/simpulsendiri12.jpg)
 
-Modul ini membantu untuk
-———————
+## Modul ini membantu untuk
 
-- [ ] sadar kemampuan diri
-- [ ] identifikasi problem dari rutinitas sehari-hari
-- [ ] mengajak diri menemukan kesulitan yang dihadapi
-- [ ] mengatasi problem sesuai dengan tingkat kemampuan upaya dan hasil
-- [ ] memahami masalah dengan pertanyaan tepat, bukan mengutamakan solusi
+- Sadar kemampuan diri
+- Identifikasi problem dari rutinitas sehari-hari
+- Mengajak diri menemukan kesulitan yang dihadapi
+- Mengatasi problem sesuai dengan tingkat kemampuan upaya dan hasil
+- Memahami masalah dengan pertanyaan tepat, bukan mengutamakan solusi
 
-Links
-———————
+## Links
 
 - [https://maketime.blog](https://maketime.blog/)
 - Lightning Decision Jam [https://ajsmart.com/courses/lightning-decision-jam](https://ajsmart.com/courses/lightning-decision-jam/)
