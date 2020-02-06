@@ -14,8 +14,7 @@ You must ask yourself the following questions before purchasing any non-essentia
 - What is my emotional state in general today? (Calm? Stressed? \* Celebratory? Feeling bad about myself?)
 - How do I feel about buying it? (Happy? Excited? Indifferent? And how long will this feeling last?)
 
-How to spend more mindfully
-———————
+## How to spend more mindfully
 
 1. **Leave the item for 24 hours.** This highlights whether you genuinely want or need it. If you're still thinking about the item the next day and can afford it, then make the purchase. You'll feel a greater sense of satisfaction about your decision.
 2. **Don't let "blowout sales" tempt you.** I used to be a sucker for big sales. But that often meant spending money on items I knew I wouldn't use. So for each item that you have in your basket during a sale, ask yourself whether you would buy it if it were full price.
@@ -24,8 +23,7 @@ How to spend more mindfully
 5. **Put reminders in your wallet.** My friend came up with the brilliant idea of attaching a sticker to her credit card that bluntly says, "Do you REALLY need this?!" Anything that prompts you to take a step back before making a purchase will help you make smarter decisions.
 6. **Change the environments that cause you to spend.** If you notice that you often spend money after clicking on a marketing email or seeing pictures of an Instagram influencer wearing a particular brand, for example, then unsubscribe or unfollow. Or, if you buy clothes or makeup when you have time to kill, try using that time to do another activity instead, such as taking a walk in the park.
 
-Links
-———————
+## Links
 
 - [Minimalism](evernote:///view/150942083/s594/34daadc5-e82c-45b6-bfe4-0a44e803a014/34daadc5-e82c-45b6-bfe4-0a44e803a014/)
 - [Kakeibo solusi cegah bokek](evernote:///view/150942083/s594/bc7ff666-3925-429e-aedd-75b78aebd555/bc7ff666-3925-429e-aedd-75b78aebd555/)
