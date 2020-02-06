@@ -34,7 +34,6 @@ Saya senang menghabiskan waktu dengan menonton Anime, berikut adalah daftar yang
 - [Himouto! Umaru-chan](https://myanimelist.net/anime/28825/Himouto_Umaru-chan)
 - [Karakai Jouzu no Takagi-san](https://myanimelist.net/anime/35860/Karakai_Jouzu_no_Takagi-san)
 - [Sword Art Online: Alicization War of Underworld](https://myanimelist.net/anime/39597/Sword_Art_Online__Alicization_-_War_of_Underworld)
-- [Haikyuu](https://myanimelist.net/anime/20583/Haikyuu)
 
 ## Planned
 
