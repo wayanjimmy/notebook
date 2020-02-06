@@ -14,7 +14,7 @@ Service
 Switch Choice Flowchart
 ---
 
-![Switch Choice Flowchart](pref-switches.jpg)
+![Switch Choice Flowchart](images/pref-switches.jpg)
 
 Links
 ---
