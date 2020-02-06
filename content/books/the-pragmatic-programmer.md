@@ -148,3 +148,8 @@ If you do all your work using GUIs, you are missing out on the full capabilities
 #### Debugging
 
 Before you start to loot at the bug, make sure that you are working on code that compiled cleanly - without warnings. It doesn’t make sense to waste time trying to find a problem that the compiler could find you! We need to concentrate on the harder problem at hand.
+
+Links
+---
+
+* https://learning.oreilly.com/library/view/the-pragmatic-programmer/020161622X/

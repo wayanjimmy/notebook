@@ -29,10 +29,10 @@ Gunakan Centralized Dashboard sehingga alur informasi menjadi ditarik oleh pener
 
 Tumbuhkan emotional ownership terhadap project.
 
-Saran bacaan untuk emotional ownership:
+Rekomendasi Buku:
 
--	Extreme Ownership
--	Making things happen (lebih teknikal)
+-	[Extreme Ownership](https://www.bookdepository.com/Extreme-Ownership-Jocko-Willink/9781250183866)
+-	[Making things happen](https://www.bookdepository.com/Making-Things-Happen-Scott-Berkun/9780596517717)
 
 Articulate Communication
 ---
@@ -67,8 +67,8 @@ Salah satu cara belajar menulis, jadilah penulis MoM pada sebuah meeting
 
 Rekomendasi Buku:
 
--	The new Articulate Executive
--	On Writing Well
+-	[New Articulate Executive](https://www.bookdepository.com/New-Articulate-Executive-Look-Act-Sound-Like-Leader-Granville-N-Toogood/9780071743266)
+-	[On Writing Well](https://www.bookdepository.com/On-Writing-Well-William-Zinsser/9780060891541)
 
 Influence
 ---
@@ -77,10 +77,10 @@ Salah satu kelemahan engineer adalah tidak ingin terlibat politik di organisasi.
 
 Jangan sampai keputusan bisnis dibuat tanpa memperhitungkan sisi teknologi karena kurangnya engineer yang memegang posisi penting dalam organisasi.
 
-Rekomendasi Bukua
+Rekomendasi Buku:
 
--	Beyond Office Politics
--	Getting More, How to negotiate to achieve your goals in the real world
+-	[Beyond Office Politics](https://www.goodreads.com/book/show/15840574-beyond-office-politics)
+-	[Getting More, How to negotiate to achieve your goals in the real world](https://www.goodreads.com/book/show/8095067-getting-more)
 
 Links
 ---
