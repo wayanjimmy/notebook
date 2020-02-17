@@ -10,7 +10,7 @@ Belakangan tertarik dengan budaya Jepang melalui [Anime](/anime). Selain itu ter
 
 ## Links
 
-- [https://instagram.com/ikigai__inspiration](https://instagram.com/ikigai__inspiration)
+- [https://instagram.com/ikigai\_\_inspiration](https://instagram.com/ikigai__inspiration)
 - [https://github.com/EngJpDiscordExchange/Awesome-Japanese](https://github.com/EngJpDiscordExchange/Awesome-Japanese)
 - [https://www.instagram.com/p/Bz5VgC5HXCv/?igshid=mksts9nfespe](https://www.instagram.com/p/Bz5VgC5HXCv)
 

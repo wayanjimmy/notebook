@@ -4,8 +4,7 @@ metaTitle: "API Blueprint"
 metaDescription: "API Blueprint"
 ---
 
-Links
----
+## Links
 
--	[API Blueprint Boilerplate](https://github.com/jsynowiec/api-blueprint-boilerplate)
--	[Snowboard](https://github.com/bukalapak/snowboard)
+- [Snowboard](https://github.com/bukalapak/snowboard)
+- [API Blueprint Boilerplate](https://github.com/jsynowiec/api-blueprint-boilerplate)

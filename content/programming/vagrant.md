@@ -18,4 +18,4 @@ Vagrant.configure(2) do |config|
 end
 ```
 
--	[Install vagrant on MacOS](https://sourabhbajaj.com/mac-setup/Vagrant/README.html)
+- [Install vagrant on MacOS](https://sourabhbajaj.com/mac-setup/Vagrant/README.html)

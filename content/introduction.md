@@ -3,15 +3,12 @@ title: "Personal Notes"
 metaTitle: "Personal Notes"
 metaDescription: "Personal Notes/Knowledge Base"
 ---
-This repository is my knowledge base. I'm using it to remember things and to let my mind interact with yours. Feel free to open issues and pull requests!
 
-See Also
---------
+Repositori yang berisikan catatan pribadi / personal knowledge base. Untuk membantu saya sendiri mengingat hal-hal yang telah dipelajari, dan membantu interaksi pengetahuan ini dengan yang kamu miliki.
 
--	[meta-knowledge](https://github.com/RichardLitt/meta-knowledge) lists other notebooks. Check them out!
--	[Nikita](https://nikitavoloboev.xyz) - My favorite.
--	[Gwern](https://www.gwern.net) - The research monster.
--	[Dmitrii Gerasimov](https://beepb00p.xyz)
+## Repositori serupa
 
-
-
+- [Dmitrii Gerasimov](https://beepb00p.xyz)
+- [Nikita](https://nikitavoloboev.xyz) - My favorite.
+- [Gwern](https://www.gwern.net) - The research monster.
+- [meta-knowledge](https://github.com/RichardLitt/meta-knowledge) lists other notebooks. Check them out!

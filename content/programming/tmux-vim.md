@@ -4,8 +4,7 @@ metaTitle: "Tmux & Vim"
 metaDescription: "Tmux & Vim"
 ---
 
-Vim
----
+## Vim
 
 Edit other file on the same directory with current file
 
@@ -14,22 +13,18 @@ Edit other file on the same directory with current file
 tabe %:h/${filename}
 ```
 
-Tmux
-----
+## Tmux
 
-Install tpm
----
+## Install tpm
 
 [https://github.com/tmux-plugins/tpm](https://github.com/tmux-plugins/tpm)
 
-shortcuts & cheatsheet
----
+## shortcuts & cheatsheet
 
 ```
 <prefix> f find window
 ```
 
-Links
----
+## Links
 
--	[tmux-cheatsheet](https://tmuxcheatsheet.com)
+- [tmux-cheatsheet](https://tmuxcheatsheet.com)

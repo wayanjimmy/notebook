@@ -5,4 +5,3 @@ metaDescription: "Health"
 ---
 
 - [Skin Care](/health/skin-care)
-

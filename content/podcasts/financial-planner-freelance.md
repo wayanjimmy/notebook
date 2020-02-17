@@ -12,22 +12,22 @@ Catatan podcast Financial Planning for Freelance di aplikasi [Insigo](https://pl
 - Keep
 - Accelerate (Tambah sumber pendapatan)
 
-#### Piramida Perencanaan Keuangan
+### Piramida Perencanaan Keuangan
 
 ![piramida-perencanaan-keuangan-finansialku](../images/piramida-perencanaan-keuangan-finansialku.jpg)
 
-#### Keamanan Keuangan
+### Keamanan Keuangan
 
 1. Cash flow harus positif (Pemasukan > Pengeluaran)
 2. Dana Darurat
 3. Hindari utang konsumtif
 4. Manajemen Risiko (Asuransi)
 
-#### Investasi
+### Investasi
 
 1. Capital Gain (Reksadana Pasar Uang, Saham)
 2. Cash Flow (Deposito, Surat Berharga Negara)
 
-#### Links
+### Links
 
-- [What most 20-somethings don’t get about investing - The Woke Salaryman:](https://thewokesalaryman.com/2019/07/13/what-most-20-somethings-dont-get-about-investing/)
+- [What most 20-somethings don’t get about investing - The Woke Salaryman:](https://thewokesalaryman.com/2019/07/13/what-most-20-somethings-dont-get-about-investing)

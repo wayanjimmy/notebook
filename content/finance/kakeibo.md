@@ -1,3 +1,9 @@
+---
+title: "Kakeibo"
+metaTitle: "Kakeibo"
+metaDescription: "Kakeibo"
+---
+
 # Kakeibo
 
 Similar to bullet journaling, kakeibo emphasizes the importance of physically writing things down — as a meditative way to process and observe your spending habits.
