@@ -38,6 +38,7 @@ mysql -u root
 ```
 
 ## Links
+
 - [Flat UI flavored theme](https://gist.github.com/wayanjimmy/d050424c3e2bb337972eecfe1143c1a3)
 - [https://github.com/pappu687/adminer-theme](https://github.com/pappu687/adminer-theme)
 
