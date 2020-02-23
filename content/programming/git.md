@@ -40,3 +40,6 @@ Git commit contains pointer to the snapshot of the content you staged. This obje
 
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 - [Karma git commit message pattern](http://karma-runner.github.io/4.0/dev/git-commit-msg.html)
+- [Gitlab Training](https://github.com/NETWAYS/gitlab-training)
+
+#git #gitlab
