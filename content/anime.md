@@ -18,6 +18,7 @@ Saya senang menghabiskan waktu dengan menonton Anime, berikut adalah daftar yang
 - [Kotonoha no Niwa](https://myanimelist.net/anime/16782/Kotonoha_no_Niwa)
 - [Naruto Shippuuden](https://myanimelist.net/anime/1735/Naruto__Shippuuden)
 - [Tsurezure_Children](https://myanimelist.net/anime/34902/Tsurezure_Children)
+- [Himouto! Umaru-chan](https://myanimelist.net/anime/28825/Himouto_Umaru-chan)
 - [Shigatsu wa Kimi no Uso](https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso)
 - [Tate no Yuusha no Nariagari](https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari)
 - [Sword Art Online: Alicization](https://myanimelist.net/anime/36474/Sword_Art_Online__Alicization)
@@ -31,7 +32,7 @@ Saya senang menghabiskan waktu dengan menonton Anime, berikut adalah daftar yang
 - [Dr. Stone](https://myanimelist.net/anime/38691/Dr_Stone)
 - [Kimetsu no Yaiba](https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba)
 - [Shingeki no Kyojin](https://myanimelist.net/anime/16498/Shingeki_no_Kyojin)
-- [Himouto! Umaru-chan](https://myanimelist.net/anime/28825/Himouto_Umaru-chan)
+- [Full Metal Alchemist](https://myanimelist.net/anime/121/Fullmetal_Alchemist)
 - [Karakai Jouzu no Takagi-san](https://myanimelist.net/anime/35860/Karakai_Jouzu_no_Takagi-san)
 - [Sword Art Online: Alicization War of Underworld](https://myanimelist.net/anime/39597/Sword_Art_Online__Alicization_-_War_of_Underworld)
 
@@ -39,5 +40,4 @@ Saya senang menghabiskan waktu dengan menonton Anime, berikut adalah daftar yang
 
 - [Barakamon](https://myanimelist.net/anime/22789/Barakamon)
 - [Akame ga Kill](https://myanimelist.net/anime/22199/Akame_ga_Kill/pics)
-- [Full Metal Alchemist](https://myanimelist.net/anime/121/Fullmetal_Alchemist)
 - [Code Geass](https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch)
