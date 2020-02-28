@@ -4,6 +4,38 @@ metaTitle: "Git"
 metaDescription: "Git"
 ---
 
+Cara cepat dan mudah push ke current branch
+
+According to git [push documentation](https://git-scm.com/docs/git-push#Documentation/git-push.txt-codegitpushoriginHEADcode) :
+git push origin HEAD
+A handy way to push the current branch to the same name on the remote.
+
+Cara ganti username & email git
+
+```bash
+git config --global user.name "Wayan Jimmy"
+git config --global user.email "jimmyeatcrab@gmail.com"
+```
+
+Cara menggabungkan beberapa commit menjadi 1 commit (squash merge)
+
+```bash
+git checkout master
+git merge --squash bugfix
+git commit
+```
+
+[https://stackoverflow.com/questions/5308816/how-to-use-git-merge-squash](https://stackoverflow.com/questions/5308816/how-to-use-git-merge-squash)
+
+Error: bad index – Fatal: index file corrupt
+
+```
+rm -f .git/index
+git reset
+```
+
+[https://stackoverflow.com/questions/1115854/how-to-resolve-error-bad-index-fatal-index-file-corrupt-when-using-git](https://stackoverflow.com/questions/1115854/how-to-resolve-error-bad-index-fatal-index-file-corrupt-when-using-git)
+
 Short git status
 
 ```
@@ -18,7 +50,11 @@ gb | rg 'put-pattern-here-' | xargs git branch -D
 
 ## Git Branches
 
-Git commit contains pointer to the snapshot of the content you staged. This object also contains the author’s name and email address, the message that you typed, and pointers to the commit or commits that directly came before this commit (its parent or parents) : ::zero parents for the initial commit::, one parent for normal commit, and multiple parents for a commit that results from a merge of two or more branches.
+Git commit contains pointer to the snapshot of the content you staged. This object also contains the author’s name and email address, the message that you typed, and pointers to the commit or commits that directly came before this commit (it's parent or parents)
+
+> zero parents for the initial commit
+
+one parent for normal commit, and multiple parents for a commit that results from a merge of two or more branches.
 
 ## Better Diff
 
@@ -38,8 +74,13 @@ Git commit contains pointer to the snapshot of the content you staged. This obje
 
 ## Links
 
+- SHOULD READ [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)
+- SHOULD READ [https://owenou.com/ten-things-you-didnt-know-git-and-github-could-do](https://owenou.com/ten-things-you-didnt-know-git-and-github-could-do/)
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 - [Karma git commit message pattern](http://karma-runner.github.io/4.0/dev/git-commit-msg.html)
 - [Gitlab Training](https://github.com/NETWAYS/gitlab-training)
+- [Forgit](https://github.com/wfxr/forgit) using git interactively
+- [Github gists from command line](https://github.com/danielecook/gg)
+- [https://twitter.com/flexdinesh/status/1215119465068675072](https://twitter.com/flexdinesh/status/1215119465068675072?s=20)
 
-#git #gitlab
+#git #gitlab #tools
