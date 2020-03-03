@@ -32,8 +32,9 @@ const config = {
       "/health"
     ],
     links: [
-      { text: "wayanjimmy.gitlab.io", link: "https://wayanjimmy.gitlab.io" },
-      { text: "wayanjimmy.netlify.com", link: "https://wayanjimmy.netlify.com" }
+      { text: "wayanjimmy.xyz", link: "https://wayanjimmy.xyz" },
+      { text: "blog.wayanjimmy.xyz", link: "https://blog.wayanjimmy.xyz" }
+      { text: "resume.wayanjimmy.xyz", link: "https://resume.wayanjimmy.xyz" }
     ],
     frontline: false,
     ignoreIndex: true
