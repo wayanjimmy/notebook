@@ -1,12 +1,12 @@
 const config = {
   gatsby: {
     pathPrefix: "/",
-    siteUrl: "https://wayanjimmy-notebook.netlify.com",
+    siteUrl: "https://notebook.wayanjimmy.xyz",
     gaTrackingId: "UA-154878946-1"
   },
   header: {
     logo: "https://avatars2.githubusercontent.com/u/1282808?s=460&v=4",
-    logoLink: "https://wayanjimmy-notebook.netlify.com",
+    logoLink: "https://notebook.wayanjimmy.xyz",
     title: "Notebook",
     githubUrl: "https://github.com/wayanjimmy/notebook",
     helpUrl: "",
@@ -42,15 +42,14 @@ const config = {
     title: "Notebook | @wayanjimmy",
     description: "Personal knowledge base",
     ogImage: null,
-    docsLocation:
-      "https://github.com/wayanjimmy/notebook/tree/master/content",
+    docsLocation: "https://github.com/wayanjimmy/notebook/tree/master/content",
     favicon: "https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg"
   },
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.
     manifest: {
-      name: "Gatsby Gitbook Starter",
-      short_name: "GitbookStarter",
+      name: "Notebook",
+      short_name: "Notebook",
       start_url: "/",
       background_color: "#6b37bf",
       theme_color: "#6b37bf",
