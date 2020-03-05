@@ -74,7 +74,7 @@ USER www-data
 
 ## Links
 
-- [Real world Laravel](/programming/real-world-laravel.md)
+- [Real world Laravel](https://notebook.wayanjimmy.xyz/programming/real-world-laravel)
 - [Laravel best practices](https://github.com/alexeymezenin/laravel-best-practices)
 
 #php #laravel #docker #framework #backend
