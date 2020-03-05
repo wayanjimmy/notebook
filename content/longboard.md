@@ -1,7 +1,7 @@
 ---
-title: "Skateboard, Longboard & Cruise board"
-metaTitle: "Skateboard, Longboard & Cruise board"
-metaDescription: "Skateboard, Longboarding, and Cruise Board"
+title: "Longboard"
+metaTitle: "Longboard"
+metaDescription: "Longboard, Skateboard and Cruiseboard"
 ---
 
 - Hindari bermain saat hujan untuk menghindari rusaknya bearing atau berkarat
@@ -9,9 +9,10 @@ metaDescription: "Skateboard, Longboarding, and Cruise Board"
 
 ## Skateshop
 
-- [Donkey Skateshop - Bali](https://instagram.com/donkey_skateshop)
-- [Watermelon Boardshop - Jakarta](https://www.instagram.com/watermelonboardshop/)
 - [Galayastore - Jakarta](https://www.tokopedia.com/galayastore)
+- [Donkey Skateshop - Bali](https://instagram.com/donkey_skateshop)
+- [Kumbah Skate](https://instagram.com/kumbahskate?igshid=1a1gus7m3c3y6)
+- [Watermelon Boardshop - Jakarta](https://www.instagram.com/watermelonboardshop/)
 
 ## Links
 
