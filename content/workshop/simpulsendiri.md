@@ -17,35 +17,35 @@ lalu tempel voting dots pada aktivitas dengan tingkat ketidaknyamanan
 
 pilih 3 dari aktivitas sehari-hari dengan kategori yang tidak disenangi
 
-![](images/simpulsendiri3.jpg)
+![](../images/simpulsendiri3.jpg)
 
 dari aktivitas yg ga disenangi, jabarkan, masalahnya apa? bukan solusinya. gunakan keyword "gimana caranya?”
 
-![](images/simpulsendiri4.jpg)
+![](../images/simpulsendiri4.jpg)
 
 setelah tahu problemnya, tentukan tantangannya apa aja
 **INGAT** baru jawab problem, belum menemukan solusi
 
-![](images/simpulsendiri5.jpg)
+![](../images/simpulsendiri5.jpg)
 
 setelah tahu problem dan menjawab dengan tantangan, lalu prioritaskan tingkat kepentingannya.
 
-![](images/simpulsendiri6.jpg)
+![](../images/simpulsendiri6.jpg)
 
 lalu urutkan jawaban dari tantangan tadi berdasarkan banyaknya voting dots.
 yang voting dotsnya paling banyak, pindahkan posisinya paling atas.
 
-![](images/simpulsendiri7.jpg)
+![](../images/simpulsendiri7.jpg)
 
-![](images/simpulsendiri8.jpg)
+![](../images/simpulsendiri8.jpg)
 
-![](images/simpulsendiri9.jpg)
+![](../images/simpulsendiri9.jpg)
 
-![](images/simpulsendiri10.jpg)
+![](../images/simpulsendiri10.jpg)
 
-![](images/simpulsendiri11.jpg)
+![](../images/simpulsendiri11.jpg)
 
-![](images/simpulsendiri12.jpg)
+![](../images/simpulsendiri12.jpg)
 
 ## Modul ini membantu untuk
 
