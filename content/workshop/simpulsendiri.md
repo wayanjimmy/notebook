@@ -58,9 +58,9 @@ yang voting dotsnya paling banyak, pindahkan posisinya paling atas.
 ## Links
 
 - [https://maketime.blog](https://maketime.blog/)
-- Lightning Decision Jam [https://ajsmart.com/courses/lightning-decision-jam](https://ajsmart.com/courses/lightning-decision-jam/)
 - [https://www.instagram.com/simpulsendirimodul](https://www.instagram.com/simpulsendirimodul/)
+- Lightning Decision Jam [https://ajsmart.com/courses/lightning-decision-jam](https://ajsmart.com/courses/lightning-decision-jam/)
 - Sprint [https://www.goodreads.com/book/show/25814544-sprint](https://www.goodreads.com/book/show/25814544-sprint)
-- Happyness by Design [https://www.goodreads.com/book/show/18667892-happiness-by-design](https://www.goodreads.com/book/show/18667892-happiness-by-design)
+- Happiness by Design [https://www.goodreads.com/book/show/18667892-happiness-by-design](https://www.goodreads.com/book/show/18667892-happiness-by-design)
 
 #self-improvement #life-cheatsheet #productivity #workshop
