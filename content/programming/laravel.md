@@ -76,5 +76,6 @@ USER www-data
 
 - [Laravel best practices](https://github.com/alexeymezenin/laravel-best-practices)
 - [Real world Laravel](https://notebook.wayanjimmy.xyz/programming/real-world-laravel)
+- [Implementation of the Manager pattern existing in Laravel framework](https://github.com/DeGraciaMathieu/Manager)
 
 #php #laravel #docker #framework #backend
