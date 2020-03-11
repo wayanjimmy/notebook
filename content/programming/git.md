@@ -74,13 +74,14 @@ one parent for normal commit, and multiple parents for a commit that results fro
 
 ## Links
 
-- SHOULD READ [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)
-- SHOULD READ [https://owenou.com/ten-things-you-didnt-know-git-and-github-could-do](https://owenou.com/ten-things-you-didnt-know-git-and-github-could-do/)
-- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
-- [Karma git commit message pattern](http://karma-runner.github.io/4.0/dev/git-commit-msg.html)
+- [Git Explorer](https://gitexplorer.com/)
 - [Gitlab Training](https://github.com/NETWAYS/gitlab-training)
-- [Forgit](https://github.com/wfxr/forgit) using git interactively
+- [Forgit: using git interactively](https://github.com/wfxr/forgit)
 - [Github gists from command line](https://github.com/danielecook/gg)
+- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+- **SHOULD READ** [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)
+- [Karma git commit message pattern](http://karma-runner.github.io/4.0/dev/git-commit-msg.html)
 - [https://twitter.com/flexdinesh/status/1215119465068675072](https://twitter.com/flexdinesh/status/1215119465068675072?s=20)
+- **SHOULD READ** [https://owenou.com/ten-things-you-didnt-know-git-and-github-could-do](https://owenou.com/ten-things-you-didnt-know-git-and-github-could-do/)
 
 #git #gitlab #tools
