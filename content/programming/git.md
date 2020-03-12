@@ -78,6 +78,7 @@ one parent for normal commit, and multiple parents for a commit that results fro
 - [Gitlab Training](https://github.com/NETWAYS/gitlab-training)
 - [Forgit: using git interactively](https://github.com/wfxr/forgit)
 - [Github gists from command line](https://github.com/danielecook/gg)
+- [Commit Lint](https://github.com/conventional-changelog/commitlint)
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 - **SHOULD READ** [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)
 - [Karma git commit message pattern](http://karma-runner.github.io/4.0/dev/git-commit-msg.html)
