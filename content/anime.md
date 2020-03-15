@@ -29,6 +29,7 @@ Saya senang menghabiskan waktu dengan menonton Anime, berikut adalah daftar yang
 ## Watching
 
 - [Haikyuu](https://myanimelist.net/anime/20583/Haikyuu)
+- [Inuyasha](https://myanimelist.net/anime/249/InuYasha_TV)
 - [Dr. Stone](https://myanimelist.net/anime/38691/Dr_Stone)
 - [Kimetsu no Yaiba](https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba)
 - [Shingeki no Kyojin](https://myanimelist.net/anime/16498/Shingeki_no_Kyojin)
