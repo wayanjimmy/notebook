@@ -8,7 +8,6 @@ metaDescription: "Javascript"
 
 - [https://github.com/prettier/prettier](https://github.com/prettier/prettier)
 - [https://github.com/date-fns/date-fns](https://github.com/date-fns/date-fns)
-- [https://github.com/gajus/slonik](https://github.com/gajus/slonik)
 - [https://github.com/jaredpalmer/backpack](https://github.com/jaredpalmer/backpack)
 - [https://github.com/nikersify/jay](https://github.com/nikersify/jay)
 
