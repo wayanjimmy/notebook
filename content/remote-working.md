@@ -17,7 +17,7 @@ Karena sering keluar rumah saya membuat sebuah repo github yang isinya list [Wif
 ### Notes
 
 - Belajar proaktif
-- Belajar komunikasi, over communicate jika perlu. baca [ini](https://twitter.com/wayanjimmy/status/1199269146917081088%20) dan [ini](https://twitter.com/theresiatanzil/status/1218314723784966144?s=20)
+- Belajar komunikasi, over communicate jika perlu. baca [ini](https://twitter.com/wayanjimmy/status/1199269146917081088%20), [ini](https://twitter.com/theresiatanzil/status/1218314723784966144?s=20) dan [ini](https://twitter.com/nmonarizqa/status/1239009073627947009)
   [-](https://twitter.com/theresiatanzil/status/1218314723784966144?s=20) Belajar lebih interaktif dan thinking out loud
 - Tracking jadwal mingguan, bulanan, weekly review
 - Terapkan metode [GTD: Get Things Done](https://verekia.com/slides/todo-zero)
