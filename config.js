@@ -6,9 +6,9 @@ const config = {
     trailingSlash: false
   },
   header: {
-    logo: "https://avatars2.githubusercontent.com/u/1282808?s=460&v=4",
+    logo: "",
     logoLink: "https://notebook.wayanjimmy.xyz",
-    title: "Notebook",
+    title: "<a href='/'><img class='img-responsive' src='https://avatars2.githubusercontent.com/u/1282808?s=460&v=4' alt='Wayan Jimmy' /> Notebook</a>",
     githubUrl: "https://github.com/wayanjimmy/notebook",
     helpUrl: "",
     tweetText: "",
