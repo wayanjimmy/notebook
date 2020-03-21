@@ -11,7 +11,6 @@ const plugins = [
     }
   },
   'gatsby-plugin-emotion',
-  'gatsby-plugin-remove-trailing-slashes',
   'gatsby-plugin-react-helmet',
   {
     resolve: "gatsby-source-filesystem",
@@ -27,8 +26,7 @@ const plugins = [
         {
           resolve: "gatsby-remark-images",
           options: {
-            maxWidth: 1035,
-            sizeByPixelDensity: true
+            maxWidth: 1035
           }
         },
         {
@@ -77,6 +75,12 @@ if (config.pwa && config.pwa.enabled && config.pwa.manifest) {
 } else {
   plugins.push('gatsby-plugin-remove-serviceworker');
 }
+
+// check and remove trailing slash
+if (config.gatsby && !config.gatsby.trailingSlash) {
+  plugins.push('gatsby-plugin-remove-trailing-slashes');
+}
+
 module.exports = {
   pathPrefix: config.gatsby.pathPrefix,
   siteMetadata: {
