@@ -29,6 +29,7 @@ metaDescription: "Go"
 ## Interesting go modules
 
 - [https://github.com/jinzhu/now](https://github.com/jinzhu/now)
+- [https://github.com/rotisserie/eris](https://github.com/rotisserie/eris)
 
 ## Should listen podcasts
 
