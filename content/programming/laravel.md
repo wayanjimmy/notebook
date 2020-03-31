@@ -65,12 +65,13 @@ USER www-data
 
 ## Favorite composer packages
 
-- [https://github.com/spatie/laravel-activitylog](https://github.com/spatie/laravel-activitylog)
-- [https://github.com/spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary)
-- [https://github.com/spatie/laravel-model-status](https://github.com/spatie/laravel-model-status)
-- [https://github.com/BenSampo/laravel-enum](https://github.com/BenSampo/laravel-enum)
-- [https://github.com/owen-it/laravel-auditing](https://github.com/owen-it/laravel-auditing)
-- [https://github.com/rebing/graphql-laravel](https://github.com/rebing/graphql-laravel)
+- [Enum](https://github.com/BenSampo/laravel-enum)
+- [GraphQL](https://github.com/rebing/graphql-laravel)
+- [Auditing](https://github.com/owen-it/laravel-auditing)
+- [Web Tinker](https://github.com/spatie/laravel-web-tinker)
+- [Activity Log](https://github.com/spatie/laravel-activitylog)
+- [Model Status](https://github.com/spatie/laravel-model-status)
+- [Media Library](https://github.com/spatie/laravel-medialibrary)
 
 ## Links
 
