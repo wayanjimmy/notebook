@@ -63,6 +63,23 @@ COPY --chown=www-data:www-data . /usr/web
 USER www-data
 ```
 
+## Installing Laravel valet
+
+when trying to install laravel valet but this error occur
+```
+[Composer\Downloader\TransportException]
+Content-Length mismatch, received 44537 bytes out of the expected 298454
+```
+
+solve by execute these commands
+
+```
+composer config -g repo.packagist composer https://packagist.org
+composer config -g github-protocols https ssh
+```
+
+https://stackoverflow.com/questions/38635257/composer-content-length-mismatch
+
 ## Favorite composer packages
 
 - [Enum](https://github.com/BenSampo/laravel-enum)
