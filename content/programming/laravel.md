@@ -66,6 +66,7 @@ USER www-data
 ## Installing Laravel valet
 
 when trying to install laravel valet but this error occur
+
 ```
 [Composer\Downloader\TransportException]
 Content-Length mismatch, received 44537 bytes out of the expected 298454
@@ -79,6 +80,10 @@ composer config -g github-protocols https ssh
 ```
 
 https://stackoverflow.com/questions/38635257/composer-content-length-mismatch
+
+```
+/usr/local/opt/mysql@6.7/bin/mysql.server start
+```
 
 ## Favorite composer packages
 
