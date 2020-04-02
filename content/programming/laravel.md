@@ -90,6 +90,7 @@ https://stackoverflow.com/questions/38635257/composer-content-length-mismatch
 - [Enum](https://github.com/BenSampo/laravel-enum)
 - [GraphQL](https://github.com/rebing/graphql-laravel)
 - [Auditing](https://github.com/owen-it/laravel-auditing)
+- [Blade Icons](https://github.com/driesvints/blade-icons)
 - [Web Tinker](https://github.com/spatie/laravel-web-tinker)
 - [Activity Log](https://github.com/spatie/laravel-activitylog)
 - [Model Status](https://github.com/spatie/laravel-model-status)
