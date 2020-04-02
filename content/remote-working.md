@@ -61,6 +61,7 @@ The key is to work at a company that is REMOTE FIRST. If the remote team is in t
 - [Catatan Remote Work oleh Leonardo Situmorang](https://trello.com/c/lB9mJRG7)
 - [https://zapier.com/learn/remote-work](https://zapier.com/learn/remote-work/)
 - [Franklin Schedule](https://thefocuscourse.com/franklin-schedule/)
+- [900+ Startups hiring Remotely in 2020 - by Remotive.io : UPDATED - The List of Awesome!](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview#gid=1279011369)
 
 
 #remote-working #engineering-culture
