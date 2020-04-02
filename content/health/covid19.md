@@ -4,6 +4,8 @@ metaTitle: "Covid 19"
 metaDescription: "Covid 19"
 ---
 
+![](photo_2020-04-02_07-59-06.jpeg)
+
 You infect 1.3 people with the flu on avg
 You infect 3 people with Covid-19 on avg
 That may not sound like much, but if each person infects that many also, and it happens 10x?
