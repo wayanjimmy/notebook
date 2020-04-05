@@ -26,3 +26,4 @@ Beberapa bahan ternyata berbahaya jika disemprotkan ke tubuh langsung, baca lebi
 - [Hati-hati terhadap cairan yang digunakan pada Disinfektan Bilik](https://fa.itb.ac.id/tanggapan-terhadap-disinfektan-bilik)
 - [What happened to one man's family when he got the coronavirus in Wuhan](https://www.youtube.com/watch?v=yWsPCnNYIu8&t=861s)
 - [Sebuah Panduan Bagaimana sebaiknya Mencegah agar tidak Tertular COVID-19 dan apa yang sebaiknya dilakukan jika Tertular](https://medium.com/@salsabeela/mari-tetap-hidup-perbaiki-penanganan-covid-19-di-indonesia-997a5144114)
+- [Mass Disinfections to Combat Coronavirus post another heatlh hazard](https://www.reuters.com/article/us-health-coronavirus-disinfection/mass-disinfections-to-combat-coronavirus-pose-another-health-hazard-idUSKBN21I1PB)
