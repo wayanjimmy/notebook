@@ -13,3 +13,7 @@ Of course, there is no way to know objectively if your stomach is at 80% capacit
 > The way food is served is also important. By presenting their meals on many small plates, the Japanese tend to eat less.
 
 A typical meal in a restaurant in Japan is served in five plates on a tray, four of them very small and the main dish slightly bigger. Having five plates in front of you makes it seem like you are going to eat a lot, but what happens most of the time is that...
+
+## Links
+
+- [What is Japanese "forest bathing" and how can it improves your health](https://www.facebook.com/worldeconomicforum/videos/10154303720471479/)
