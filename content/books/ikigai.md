@@ -38,6 +38,8 @@ The same idea goes for friendships and personal interests.
 
 ## Links
 
+- [Buy at Amazon](https://www.amazon.com/Ikigai-Japanese-Secret-Long-Happy/dp/0143130722)
 - [Ikigai Inspiration](https://instagram.com/ikigai__inspiration?igshid=1e2emj2zgdt89)
+- [Buy at Bookdepository (Free Shipping Worldwide)](https://www.bookdepository.com/Ikigai-Hector-Garcia/9781786330895?ref=grid-view&qid=1586135400544&sr=1-1)
 - [What is Japanese "forest bathing" and how can it improves your health](https://www.facebook.com/worldeconomicforum/videos/10154303720471479/)
 - [10 Key Points of Ruby Development: Special Interview with Matz and Mr. Miyagawa of Rebuild.fm](https://blog.sideci.com/10-key-points-of-ruby-development-7803ec2e792b?gi=1be554cc74a8)
