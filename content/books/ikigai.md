@@ -2,7 +2,7 @@
 
 ## The 80% secret
 
-One of the most common sayings in Japan is "Hara hachi bu", which is repeated before or after eating and means something like "Fill your belly to 80%l".
+One of the most common sayings in Japan is "Hara hachi bu", which is repeated before or after eating and means something like "Fill your belly to 80%".
 
 > Ancient wisdom advises against eating until we are full. This is why Okinawans stop eating when they feel their stomachs reach 80% of their capacity,
 
@@ -16,4 +16,5 @@ A typical meal in a restaurant in Japan is served in five plates on a tray, four
 
 ## Links
 
+- [Ikigai Inspiration](https://instagram.com/ikigai__inspiration?igshid=1e2emj2zgdt89)
 - [What is Japanese "forest bathing" and how can it improves your health](https://www.facebook.com/worldeconomicforum/videos/10154303720471479/)
