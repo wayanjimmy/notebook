@@ -28,6 +28,7 @@ Saya senang menghabiskan waktu dengan menonton Anime, berikut adalah daftar yang
 
 ## Watching
 
+- [Bofuri](https://www.youtube.com/watch?v=8CqSiRk1Jek)
 - [Haikyuu](https://myanimelist.net/anime/20583/Haikyuu)
 - [Inuyasha](https://myanimelist.net/anime/249/InuYasha_TV)
 - [Dr. Stone](https://myanimelist.net/anime/38691/Dr_Stone)
