@@ -12,6 +12,7 @@ Selain itu berikut adalah beberapa playlist favorit saya.
 
 - [Jejepangan](https://music.youtube.com/playlist?list=PLh-bTbk8RQYY7Ocljnk6qB-Jd3FIZxZW-)
 - [Travel Music Love](https://music.youtube.com/playlist?list=PLu1S36l0eVs3uxzUk38MiXL9PMRhlB2-w)
+- [Math Rock: Murphy Radio](https://music.youtube.com/browse/VLPLGrud8XLbi2PGtqLkAVrQqXagaqN4I3_N)
 - [Judika Live Music Wedding](https://music.youtube.com/watch?v=Ka3VdIxfKDc&list=RDAMVMKa3VdIxfKDc)
 
 ## Spotify
