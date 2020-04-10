@@ -13,10 +13,15 @@ You’ve infected 14 people with the flu, and 59,000 with coronavirus.
 
 Beberapa bahan ternyata berbahaya jika disemprotkan ke tubuh langsung, baca lebih lengkap di [tanggapan Sekolah Farmasi ITB terhadap disinfektan bilik](https://fa.itb.ac.id/tanggapan-terhadap-disinfektan-bilik/)
 
+When we think of the future, we tend to think of obvious and immediate consequences. As a result, we tend to ignore the _domino chain of effects_.
+
+
+
 ## Links
 
 - [Protokol Isolasi Mandiri](https://tirto.id/protokol-isolasi-mandiri-bagi-pasien-positif-covid-19-tanpa-gejala-eJZt)
 - [The lockdown: One month in Wuhan](https://www.youtube.com/watch?v=XU9FVqwO4TM)
+- [[Coronavirus] Second Order Effects](https://docs.google.com/document/d/17YkH4kc63t7JI7JJZR6i3-iebJd7kfRAzAK_ssl8bt4/edit?usp=sharing)
 - [Virus Corona: Dari Seorang Warga Awam](http://proses.id/corona/)
 - [Why fighting the coronavirus depends on you](https://www.youtube.com/watch?v=dSQztKXR6k0)
 - [What Actually Happens If You Get Coronavirus?](https://www.youtube.com/watch?v=OTYfke545vI)

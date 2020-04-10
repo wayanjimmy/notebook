@@ -72,16 +72,21 @@ one parent for normal commit, and multiple parents for a commit that results fro
 6. Wrap the body at 72 characters
 7. Use the body to explain what and why vs. how
 
+## Git at 15: How Git Changed the Way We Code
+
+But git approaches the task a bit differently than most Version Control Systems. Most systems store information as a list of file-based changes, so both the file and the changes made to the file over time is stored. Git, on the other hand, looks at data as _a series of snapshots on a miniature filesystem_.
+
 ## Links
 
+- [Commit Lint](https://github.com/conventional-changelog/commitlint)
 - [Git Explorer](https://gitexplorer.com/)
 - [Gitlab Training](https://github.com/NETWAYS/gitlab-training)
-- [Forgit: using git interactively](https://github.com/wfxr/forgit)
 - [Github gists from command line](https://github.com/danielecook/gg)
-- [Commit Lint](https://github.com/conventional-changelog/commitlint)
-- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
-- **SHOULD READ** [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)
+- [Forgit: using git interactively](https://github.com/wfxr/forgit)
 - [Karma git commit message pattern](http://karma-runner.github.io/4.0/dev/git-commit-msg.html)
+- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+- [Git at 15: How Git Changed the Way We Code](https://thenewstack.io/git-at-15-how-git-changed-the-way-we-code/)
+- **SHOULD READ** [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)
 - [https://twitter.com/flexdinesh/status/1215119465068675072](https://twitter.com/flexdinesh/status/1215119465068675072?s=20)
 - **SHOULD READ** [https://owenou.com/ten-things-you-didnt-know-git-and-github-could-do](https://owenou.com/ten-things-you-didnt-know-git-and-github-could-do/)
 
