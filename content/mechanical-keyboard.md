@@ -21,11 +21,12 @@ metaDescription: "Mechanical Keyboard"
 ## Links
 
 - [QMK](https://qmk.fm)
+- https://laserindonesia.com
 - [KBDfans](https://kbdfans.com)
 - [Review KUL ES-87](https://www.kaskus.co.id/thread/5606d4289a0951de348b4568/review-kul-es-87-mechanical-keyboard-cherry-mx-brown)
-- https://laserindonesia.com
+- [Find your favorite keycapset!](https://keycapsets.com/)
 - https://github.com/ibnuda/atreus
+- https://ultimatehackingkeyboard.com
 - https://github.com/help-14/mechanical-keyboard
 - https://blog.splitkb.com/introduction-to-qmk-features
-- https://ultimatehackingkeyboard.com
 - https://www.tokopedia.com/uxcangaming/dz60v3-usb-type-c
