@@ -62,5 +62,6 @@ The key is to work at a company that is REMOTE FIRST. If the remote team is in t
 - [https://zapier.com/learn/remote-work](https://zapier.com/learn/remote-work/)
 - [Franklin Schedule](https://thefocuscourse.com/franklin-schedule/)
 - [900+ Startups hiring Remotely in 2020 - by Remotive.io : UPDATED - The List of Awesome!](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview#gid=1279011369)
+- [Lima tingkatan sistem kerja WFH di sebuah perusahaan](https://medium.com/@theresiatanzil/lima-tingkatan-sistem-kerja-jarak-jauh-kjj-remote-wfh-kdr-di-sebuah-perusahaan-75b6f813e261)
 
 #remote-working #engineering-culture
