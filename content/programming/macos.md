@@ -32,3 +32,4 @@ Macbook Repair in Jakarta
 -------------------------
 
 -	[Mac Arena - Mall Ambassador](http://macarena.co.id/) - (Whatsapp: +62-813-1981-6357)
+- Fix Repair - Jl. Tebet Barat VIII No. 47B (Sebelah Ustad Dhanu) Phone: 081311464476
