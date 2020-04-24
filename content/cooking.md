@@ -6,6 +6,7 @@ metaDescription: "Cooking"
 
 ## Links
 
+- [Nasi Edamame Wortel](/cooking/nasi-edamame-wortel)
 - [Resep Nasi Ayam KFC](https://doyanresep.com/resep-nasi-ayam-kfc/)
 - [Nasi hainan rice cooker](https://endeus.tv/resep/nasi-hainan-rice-cooker)
 - [Roti kukus ala anak kost](https://www.idntimes.com/food/recipe/prila-arofani/resep-roti-kukus-anak-kost-ala-yummy/full)
