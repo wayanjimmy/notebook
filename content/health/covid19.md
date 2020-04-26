@@ -15,8 +15,6 @@ Beberapa bahan ternyata berbahaya jika disemprotkan ke tubuh langsung, baca lebi
 
 When we think of the future, we tend to think of obvious and immediate consequences. As a result, we tend to ignore the _domino chain of effects_.
 
-
-
 ## Links
 
 - [Protokol Isolasi Mandiri](https://tirto.id/protokol-isolasi-mandiri-bagi-pasien-positif-covid-19-tanpa-gejala-eJZt)
@@ -28,6 +26,7 @@ When we think of the future, we tend to think of obvious and immediate consequen
 - [Sebuah GIF menjelaskan mengapa kita harus diam dirumah](https://twitter.com/AnanyaS1190/status/1241590500571910144)
 - [How to boost you immune system against Covid-19 (Coronavirus)?](https://twitter.com/febrinasugianto/status/1238774559190347776)
 - [Kamu akan menularkan 3 orang dengan covid19, sedangkan flu 1.3](https://twitter.com/AlexWhitcomb/status/1241943303563739136)
+- [Pengalaman Korsel menangani COVID-19 bisa disimak di Asian Boss](https://threadreaderapp.com/thread/1246124197501227008.html?refreshed=yes)
 - [Hati-hati terhadap cairan yang digunakan pada Disinfektan Bilik](https://fa.itb.ac.id/tanggapan-terhadap-disinfektan-bilik)
 - [Video tips menjelaskan Disinfek barang belanjaan setelah ke pasar](https://www.youtube.com/watch?v=4A_1h4XpMes)
 - [Mass Disinfections to Combat Coronavirus post another heatlh hazard](https://www.reuters.com/article/us-health-coronavirus-disinfection/mass-disinfections-to-combat-coronavirus-pose-another-health-hazard-idUSKBN21I1PB)
