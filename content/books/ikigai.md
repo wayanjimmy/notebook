@@ -22,6 +22,10 @@ Of course, there is no way to know objectively if your stomach is at 80% capacit
 
 A typical meal in a restaurant in Japan is served in five plates on a tray, four of them very small and the main dish slightly bigger. Having five plates in front of you makes it seem like you are going to eat a lot, but what happens most of the time is that...
 
+## Moai
+
+## A lot of sitting will age you
+
 ## Antifragility
 
 ### Create redudancies
