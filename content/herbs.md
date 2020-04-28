@@ -4,7 +4,7 @@ metaTitle: "Herbs"
 metaDescription: "Learning Herbs"
 ---
 
-- Tertarik belajar Herbal salah satunya karena menonton video ini, yg menjelaskan gimana tubuh manusia bisa nyembuhin dirinya sendiri, asalkan makan makanan langsung dari alam atau minim proses (rebus atau masak).
+- Tertarik belajar Herbal salah satunya karena menonton video [Healing your body with foods](https://youtu.be/3vudNvflufc), yg menjelaskan gimana tubuh manusia bisa nyembuhin dirinya sendiri, asalkan makan makanan langsung dari alam atau minim proses (rebus atau masak).
 - Selain itu bisa menumbuhkan rasa terhubung dengan alam, dan hidup bersinergi dengan alam.
 
 # Herbal Nusantara
@@ -16,3 +16,4 @@ metaDescription: "Learning Herbs"
 ## Links
 
 - [Trio Combo ACV, Honey, Chia seeds](/herbs/acv-chia-seeds)
+- [Healing Your Body With Food](https://www.spiritsciencecentral.com/blog/healing-your-body-with-food-the-complete-movie)
