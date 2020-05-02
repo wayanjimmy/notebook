@@ -98,6 +98,7 @@ https://stackoverflow.com/questions/38635257/composer-content-length-mismatch
 - [Media Library](https://github.com/spatie/laravel-medialibrary)
 - [Laravel DOMPDF](https://github.com/barryvdh/laravel-dompdf)
 - [Laravel Schematics](https://github.com/mtolhuys/laravel-schematics)
+- [Tailwindcss Spinner](https://github.com/aniftyco/tailwindcss-spinner)
 
 ## Links
 
