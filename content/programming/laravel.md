@@ -94,7 +94,9 @@ https://stackoverflow.com/questions/38635257/composer-content-length-mismatch
 - [Web Tinker](https://github.com/spatie/laravel-web-tinker)
 - [Activity Log](https://github.com/spatie/laravel-activitylog)
 - [Model Status](https://github.com/spatie/laravel-model-status)
+- [Laravel CORS](https://github.com/fruitcake/laravel-cors)
 - [Media Library](https://github.com/spatie/laravel-medialibrary)
+- [Laravel DOMPDF](https://github.com/barryvdh/laravel-dompdf)
 - [Laravel Schematics](https://github.com/mtolhuys/laravel-schematics)
 
 ## Links
