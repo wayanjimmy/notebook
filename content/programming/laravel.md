@@ -85,7 +85,7 @@ https://stackoverflow.com/questions/38635257/composer-content-length-mismatch
 /usr/local/opt/mysql@6.7/bin/mysql.server start
 ```
 
-## Favorite composer packages
+## Packages
 
 - [Enum](https://github.com/BenSampo/laravel-enum)
 - [GraphQL](https://github.com/rebing/graphql-laravel)
@@ -95,6 +95,7 @@ https://stackoverflow.com/questions/38635257/composer-content-length-mismatch
 - [Activity Log](https://github.com/spatie/laravel-activitylog)
 - [Model Status](https://github.com/spatie/laravel-model-status)
 - [Media Library](https://github.com/spatie/laravel-medialibrary)
+- [Laravel Schematics](https://github.com/mtolhuys/laravel-schematics)
 
 ## Links
 
