@@ -98,8 +98,9 @@ https://stackoverflow.com/questions/38635257/composer-content-length-mismatch
 
 ## Links
 
-- [Laravel best practices](https://github.com/alexeymezenin/laravel-best-practices)
 - [Real world Laravel](https://notebook.wayanjimmy.xyz/programming/real-world-laravel)
+- [Laravel best practices](https://github.com/alexeymezenin/laravel-best-practices)
+- [1 Persen lebih baik dengan Laravel](https://1-persen-lebih-baik-dengan-laravel.netlify.app/)
 - [Implementation of the Manager pattern existing in Laravel framework](https://github.com/DeGraciaMathieu/Manager)
 
 #php #laravel #docker #framework #backend
