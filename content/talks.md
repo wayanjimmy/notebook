@@ -29,12 +29,13 @@ metaDescription: "List of talks that I watched, want to watch and notes taken fr
 
 ## Links
 
+- [10 ways to have a better conversation](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation)
 - [The power of introverts | Susan Cain](https://www.youtube.com/watch?v=c0KYU2j0TM4)
+- [Unwavering Focus | Dandapani | TEDxReno](https://www.youtube.com/watch?v=4O2JK_94g3Y)
 - [How to make stress your friend | Kelly McGonigal](https://www.youtube.com/watch?v=RcGyVTAoXEU)
 - [10 Things I Regret About Node.js - Ryan Dahl (2018)](https://www.youtube.com/watch?v=M3BM9TB-8yA)
 - [The secrets of learning a new language | Lýdia Machová](https://www.youtube.com/watch?v=o_XVt5rdpFY)
 - [Learning how to learn | Barbara Oakley | TEDxOaklandUniversity](https://www.youtube.com/watch?v=O96fE1E-rf8)
 - [Lessons from the longest study on human development | Helen Pearson](https://www.youtube.com/watch?v=8Dv2Hdf5TRg)
 - [The three secrets of resilient people | Lucy Hone | TEDxChristchurch](https://www.youtube.com/watch?v=NWH8N-BvhAw)
-- [10 ways to have a better conversation](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation)
 - [7 Ways to Make a Conversation With Anyone | Malavika Varadan | TEDxBITSPilaniDubai](https://www.youtube.com/watch?v=F4Zu5ZZAG7I)
