@@ -25,7 +25,7 @@ const config = {
       { text: "resume.wayanjimmy.xyz", link: "https://resume.wayanjimmy.xyz" }
     ],
     search: {
-      enabled: true,
+      enabled: false,
       indexName: "notebook",
       algoliaAppId: process.env.GATSBY_ALGOLIA_APP_ID,
       algoliaSearchKey: process.env.GATSBY_ALGOLIA_SEARCH_KEY,
