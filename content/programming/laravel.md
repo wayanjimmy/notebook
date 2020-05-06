@@ -106,5 +106,6 @@ https://stackoverflow.com/questions/38635257/composer-content-length-mismatch
 - [Laravel best practices](https://github.com/alexeymezenin/laravel-best-practices)
 - [1 Persen lebih baik dengan Laravel](https://1-persen-lebih-baik-dengan-laravel.netlify.app/)
 - [Implementation of the Manager pattern existing in Laravel framework](https://github.com/DeGraciaMathieu/Manager)
+- [Multitenancy in Laravel: Migrations, Testing, and switching tenants](https://www.youtube.com/watch?v=592EgykFOz4)
 
 #php #laravel #docker #framework #backend
