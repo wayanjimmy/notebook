@@ -28,9 +28,10 @@ metaDescription: "Go"
 
 ## Interesting go modules
 
-- [https://github.com/jinzhu/now](https://github.com/jinzhu/now)
-- [https://github.com/go-resty/resty](https://github.com/go-resty/resty)
-- [https://github.com/rotisserie/eris](https://github.com/rotisserie/eris)
+- [Now](https://github.com/jinzhu/now)
+- [Eris](https://github.com/rotisserie/eris)
+- [Resty](https://github.com/go-resty/resty)
+- [UniPDF](https://github.com/unidoc/unipdf)
 
 ## Should listen podcasts
 
