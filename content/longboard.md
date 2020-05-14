@@ -6,6 +6,10 @@ metaDescription: "Longboard, Skateboard and Cruiseboard"
 
 - Hindari bermain saat hujan untuk menghindari rusaknya bearing atau berkarat
 - Saat membersihkan bearing semprot dengan WD40 untuk membersihkan dan menghindari karat
+- Yang aku pelajari ketika belajar bermain board
+  - Aku merasa ada persamaan antara Web development dan cruise boarding, yaitu immediate feedback
+  - Ketika berselancar diatas board, aku harus menjadi orang yang reaktif berdasarkan feedback secara cepat yang aku rasakan ketika berada diatas papan
+  - Hal itu juga yang aku rasakan ketika bekerja sebagai Web developer, proses development dengan bahasa dynamic seperti PHP & [Javascript](https://notebook.wayanjimmy.xyz/programming/javascript) membuat diriku terbiasa dengan feedback dan iterasi yang cepat
 
 ## Skateshop
 
@@ -22,3 +26,4 @@ metaDescription: "Longboard, Skateboard and Cruiseboard"
 - [Learn to skate](https://www.youtube.com/playlist?list=PL34F060CE1BA3E968)
 - [Foot Breaking](https://www.youtube.com/watch?v=l3EyJPm2E6s)
 - [How to clean your bearings the easiest way tutorial!](https://www.youtube.com/watch?v=ek8I6mok7EY)
+- [Difference between skateboard, longboard and carver - pj.utami](https://www.instagram.com/p/CALENpRgsl9/)

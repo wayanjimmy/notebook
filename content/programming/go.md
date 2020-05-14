@@ -32,6 +32,7 @@ metaDescription: "Go"
 - [Eris](https://github.com/rotisserie/eris)
 - [Resty](https://github.com/go-resty/resty)
 - [UniPDF](https://github.com/unidoc/unipdf)
+- [Mediary](https://github.com/HereMobilityDevelopers/mediary)
 
 ## Should listen podcasts
 
