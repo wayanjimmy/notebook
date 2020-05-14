@@ -4,19 +4,18 @@ metaTitle: "Writing"
 metaDescription: "Writing"
 ---
 
+- Belajar menulis dengan membaca dan menulis sebanyak mungkin
+- Pekerjaan berkaitan erat dengan tulisan seperti dokumentasi project opensource
+- Menulis salah satu keahlian dasar yang diperlukan untuk bisa bekerja secara [remote](https://notebook.wayanjimmy.xyz/remote-working)
+
 ## Notes
 
-Mengkutip dari blog [theresiatanzil](https://twitter.com/theresiatanzil) [proses.id](http://proses.id/journaling/)
-
-- I am able to reflect and am more mindful of my own thought process and behaviours.
-- It helps me organise my thoughts and verify some assumptions I didn’t notice before.
-- My attention span grows stronger.
-
-For me, journaling is like building my private time machine.
-
-I can read last year’s entry and discover how much I have or haven’t changed
-
----
+- Mengkutip dari blog [theresiatanzil](https://twitter.com/theresiatanzil) [proses.id](http://proses.id/journaling/)
+  - I am able to reflect and am more mindful of my own thought process and behaviours.
+  - It helps me organise my thoughts and verify some assumptions I didn’t notice before.
+  - My attention span grows stronger.
+  - For me, journaling is like building my private time machine.
+  - I can read last year’s entry and discover how much I have or haven’t changed
 
 ## Links
 
