@@ -46,7 +46,8 @@ const config = {
       "/programming",
       "/talks",
       "/workshop",
-      "/quotes"
+      "/quotes",
+      "/japanese-popculture"
     ],
     links: [],
     frontline: false,
