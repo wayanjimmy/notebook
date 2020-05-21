@@ -9,5 +9,6 @@ Belakangan ini saya senang mengkonsumsi konten di social media Instagram, karena
 Berikut ini adalah kumpulan profil Instagram tersebut
 
 ## Links
+
 - [Ikigai Inspiration](https://instagram.com/ikigai__inspiration?igshid=1e2emj2zgdt89)
 - [Khalil Gibran Quotes](https://instagram.com/khalilgibran1?igshid=4m54p5owtgn4)

@@ -34,7 +34,20 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [],
-    collapsedNav: [],
+    collapsedNav: [
+      "/books",
+      "/cooking",
+      "/finance",
+      "/health",
+      "/herbs",
+      "/books",
+      "/languages",
+      "/podcasts",
+      "/programming",
+      "/talks",
+      "/workshop",
+      "/quotes"
+    ],
     links: [],
     frontline: false,
     ignoreIndex: true,

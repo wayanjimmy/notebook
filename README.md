@@ -1,10 +1,14 @@
-Personal Notes
-==============
+# Personal Notebook
 
-This repository is my knowledge base. I'm using it to remember things and to let my mind interact with yours. Feel free to open issues and pull requests!
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9d34468e-18bb-4999-9af9-4893326dcc33/deploy-status)](https://app.netlify.com/sites/wayanjimmy-notebook/deploys)
 
-See Also
---------
+Repositori yang berisikan catatan pribadi / personal knowledge base. Untuk membantu saya sendiri mengingat hal-hal yang telah dipelajari, dan membantu interaksi pengetahuan ini dengan yang kamu miliki.
 
-[meta-knowledge](https://github.com/RichardLitt/meta-knowledge) lists other notebooks. Check them out!
+## Repositori serupa
+
+- [Gwern](https://www.gwern.net)
+- [Nikita](https://nikitavoloboev.xyz)
+- [Dmitrii Gerasimov](https://beepb00p.xyz)
+- [Wahudamon](https://notebook.wahudamon.com/)
+- [meta-knowledge](https://github.com/RichardLitt/meta-knowledge)
 
