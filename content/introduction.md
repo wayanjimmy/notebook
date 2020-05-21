@@ -8,7 +8,9 @@ Repositori yang berisikan catatan pribadi / personal knowledge base. Untuk memba
 
 ## Repositori serupa
 
+- [Gwern](https://www.gwern.net)
+- [Nikita](https://nikitavoloboev.xyz)
 - [Dmitrii Gerasimov](https://beepb00p.xyz)
-- [Nikita](https://nikitavoloboev.xyz) - My favorite.
-- [Gwern](https://www.gwern.net) - The research monster.
-- [meta-knowledge](https://github.com/RichardLitt/meta-knowledge) lists other notebooks. Check them out!
+- [Wahudamon](https://notebook.wahudamon.com/)
+- [meta-knowledge](https://github.com/RichardLitt/meta-knowledge)
+
