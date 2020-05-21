@@ -22,7 +22,6 @@ tabe %:h/${filename}
 ## Links
 
 - [tmux](https://notebook.wayanjimmy.xyz/programming/tmux)
-
 - [Neovim](https://neovim.io)
 - [Vimcasts](http://vimcasts.org)
 - [MasteringVim](https://twitter.com/masteringvim)
