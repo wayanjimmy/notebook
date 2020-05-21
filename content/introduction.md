@@ -1,7 +1,7 @@
 ---
-title: "Personal Notes"
-metaTitle: "Personal Notes"
-metaDescription: "Personal Notes/Knowledge Base"
+title: "Intro"
+metaTitle: "Intro"
+metaDescription: "Intro"
 ---
 
 Repositori yang berisikan catatan pribadi / personal knowledge base. Untuk membantu saya sendiri mengingat hal-hal yang telah dipelajari, dan membantu interaksi pengetahuan ini dengan yang kamu miliki.

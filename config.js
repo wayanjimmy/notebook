@@ -33,7 +33,7 @@ const config = {
     }
   },
   sidebar: {
-    forcedNavOrder: [],
+    forcedNavOrder: ["/introduction"],
     collapsedNav: [
       "/books",
       "/cooking",
