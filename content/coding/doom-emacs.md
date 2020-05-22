@@ -35,6 +35,7 @@ ln -s /usr/local/opt/emacs-plus/Emacs.app /Applications/Emacs.app
 - `SPC p p` - swith between projects
 - `SPC f p` - quickly edit doom's config
 - `SPC f r` - open recent
+e
 - `SPC f R` - open recently visited files on context the current project
 - `SPC b b` or `SPC ,`- switch between buffers
 
@@ -46,4 +47,4 @@ After editing `~/.doom.d/packages.el` make sure run `doom refresh`
 
 - [Doom emacs Gettings Stardted Macos](https://github.cm/hlissner/doom-emacs/blob/develop/docs/getting_started.org#with-homebrew)
 - [Zaiste Programming: Emacs Doom Episode](https://www.yoube.com/watch?v=rCMh7srOqvw)
-- [Own Your Second Brain: Set Up org-roam on Your Own Machine](https://www.ianjnes.us/blog/2020-05-05-doom-emacs/)
+- [Own Your Second Brain: Set Up org-roam on Your Own Machine](https://www.ianjones.us/blog/2020-05-05-doom-emacs/)
