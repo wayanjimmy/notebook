@@ -43,7 +43,7 @@ const config = {
       "/books",
       "/languages",
       "/podcasts",
-      "/programming",
+      "/coding",
       "/talks",
       "/workshop",
       "/quotes",
