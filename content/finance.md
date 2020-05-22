@@ -6,6 +6,15 @@ metaDescription: "Finance"
 
 - Uang bukanlah hal yang buruk, lihat uang sebagai sebuah energi
 - Uang bisa digunakan untuk berbuat hal yang baik
+- Aspirebudget
+  - Dibagi jadi 4 hal utama
+    - Reportable & non reportable
+    - Credit card
+    - Category group
+    - Monthly amount
+      - Budget setiap bulan
+      - Ada fitur category transfer, untuk transfer budget antar category (you rarely need this)
+      - Goal amount
 
 ## Links
 
