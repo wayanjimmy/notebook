@@ -4,4 +4,4 @@ metaTitle: "Data Modelling"
 metaDescription: "Data Modelling"
 ---
 
-- [People Party](/programming/data-modelling/people-party)
+- [People Party](/coding/data-modelling/people-party)

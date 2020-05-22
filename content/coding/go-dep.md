@@ -28,7 +28,7 @@ rm -rf vendor #pastikan folder vendor dihapus
 
 ## Links
 
-- [Go](https://notebook.wayanjimmy.xyz/programming/go)
+- [Go](/coding/go)
 - [https://github.com/GetStream/vg](https://github.com/GetStream/vg)
 
 #golang
