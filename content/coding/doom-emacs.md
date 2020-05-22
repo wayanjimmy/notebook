@@ -26,11 +26,12 @@ ln -s /usr/local/opt/emacs-plus/Emacs.app /Applications/Emacs.app
 ## Notes
 
 - `SPC` - space
-
 - `M-x` (pronounced meta x) - command + X
 - `SPC f .` or `SPC .` - search in directory
 - `SPC p p` - swith between projects
 - `SPC f p` - quickly edit doom's config
+- `SPC f r` - open recent
+- `SPC f R` - open recently visited files on context the current project
 
 ## Links
 
