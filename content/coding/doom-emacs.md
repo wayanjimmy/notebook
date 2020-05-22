@@ -23,6 +23,12 @@ ln -s /usr/local/opt/emacs-plus/Emacs.app /Applications/Emacs.app
 1. Use `doom upgrade` to update Doom
 1. Access Doom's documentation from withtin emacs via `SPC h D` or `C-h D` (or `M-x doom/help`)
 
+## Notes
+
+- `M-x` (pronounced meta x), in Macos is `Command + X`
+
 ## Links
 
-- :[Doom emacs Gettings Stardted Macos](https://github.cm/hlissner/doom-emacs/blob/develop/docs/getting_started.org#with-homebrew)
+- [Doom emacs Gettings Stardted Macos](https://github.cm/hlissner/doom-emacs/blob/develop/docs/getting_started.org#with-homebrew)
+- [Zaiste Programming: Emacs Doom Episode](https://www.yoube.com/watch?v=rCMh7srOqvw)
+- [Own Your Second Brain: Set Up org-roam on Your Own Machine](https://www.ianjnes.us/blog/2020-05-05-doom-emacs/)
