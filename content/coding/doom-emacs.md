@@ -27,6 +27,8 @@ ln -s /usr/local/opt/emacs-plus/Emacs.app /Applications/Emacs.app
 
 ## Notes
 
+### Keys
+
 - `SPC` - space
 - `M-x` (pronounced meta x) - command + X
 - `SPC f .` or `SPC .` - search in directory
@@ -35,6 +37,10 @@ ln -s /usr/local/opt/emacs-plus/Emacs.app /Applications/Emacs.app
 - `SPC f r` - open recent
 - `SPC f R` - open recently visited files on context the current project
 - `SPC b b` or `SPC ,`- switch between buffers
+
+### Packages
+
+After editing `~/.doom.d/packages.el` make sure run `doom refresh`
 
 ## Links
 
