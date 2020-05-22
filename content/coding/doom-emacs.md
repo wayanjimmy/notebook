@@ -6,7 +6,7 @@ metaDescription: "Exploring doom emacs"
 
 ## Install
 
-1. Install emacs-plus
+1. Install `emacs-plus`
 
 ```
 brew tap d12frosted/emacs-plus
@@ -14,7 +14,7 @@ brew install emacs-plus
 ln -s /usr/local/opt/emacs-plus/Emacs.app /Applications/Emacs.app
 ```
 
-2. start service emacs-plus dan restart
+2. start service `emacs-plus` dan restart
 
 ## Before you doom your self
 
@@ -25,7 +25,12 @@ ln -s /usr/local/opt/emacs-plus/Emacs.app /Applications/Emacs.app
 
 ## Notes
 
-- `M-x` (pronounced meta x), in Macos is `Command + X`
+- `SPC` - space
+
+- `M-x` (pronounced meta x) - command + X
+- `SPC f .` or `SPC .` - search in directory
+- `SPC p p` - swith between projects
+- `SPC f p` - quickly edit doom's config
 
 ## Links
 
