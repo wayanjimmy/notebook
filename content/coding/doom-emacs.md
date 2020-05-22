@@ -4,6 +4,8 @@ metaTitle: "Doom Emacs"
 metaDescription: "Exploring doom emacs"
 ---
 
+> Think like Emacs a programmable text user interface -- Zaiste
+
 ## Install
 
 1. Install `emacs-plus`
