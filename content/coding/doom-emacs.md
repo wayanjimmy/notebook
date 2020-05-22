@@ -32,6 +32,7 @@ ln -s /usr/local/opt/emacs-plus/Emacs.app /Applications/Emacs.app
 - `SPC f p` - quickly edit doom's config
 - `SPC f r` - open recent
 - `SPC f R` - open recently visited files on context the current project
+- `SPC b b` - switch between buffers
 
 ## Links
 
