@@ -8,6 +8,10 @@ Jejak musik/lagu yang saya mainkan sehari-hari direkam di [Last.fm](https://www.
 
 Selain itu berikut adalah beberapa playlist favorit saya.
 
+## Soundcloud
+
+- [Dirty Rally 2](https://soundcloud.com/user-648320897/sets/dirt-rally-2)
+
 ## Youtube Music
 
 - [Jejepangan](https://music.youtube.com/playlist?list=PLh-bTbk8RQYY7Ocljnk6qB-Jd3FIZxZW-)
