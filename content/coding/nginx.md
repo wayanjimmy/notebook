@@ -27,3 +27,7 @@ Config test nginx service
 ```
 sudo service nginx configtest
 ```
+
+## Links
+
+- [HTTP geo ip module](http://nginx.org/en/docs/http/ngx_http_geoip_module.html)
