@@ -27,6 +27,7 @@ metaDescription: "Writing"
 - [Writing is the best personal growth tool](https://nesslabs.com/mindframing-writing-personal-growth)
 - **SHOULD READ** [http://proses.id/journaling/](http://proses.id/journaling/)
 - [Hemingwayapp: Make your writing clear and bold](http://www.hemingwayapp.com/)
+- [How to take smart notes with Emacs org mode](https://blog.jethro.dev/posts/how_to_take_smart_notes_org/)
 - [How to Write Email with Military Precision](https://hbr.org/2016/11/how-to-write-email-with-military-precision)
 - [Nerdy Blogging: Publishing Tools and Workflow for Developers](https://medium.com/@theresiatanzil/nerdy-blogging-publishing-tools-and-workflow-for-developers-89b8e3f9dde7)
 
