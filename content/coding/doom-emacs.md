@@ -45,6 +45,6 @@ After editing `~/.doom.d/packages.el` make sure run `doom refresh`
 
 ## Links
 
-- [Doom emacs Gettings Stardted Macos](https://github.cm/hlissner/doom-emacs/blob/develop/docs/getting_started.org#with-homebrew)
-- [Zaiste Programming: Emacs Doom Episode](https://www.yoube.com/watch?v=rCMh7srOqvw)
+- [Doom emacs Gettings Stardted Macos](https://github.com/hlissner/doom-emacs/blob/develop/docs/getting_started.org#with-homebrew)
+- [Zaiste Programming: Emacs Doom Episode](https://www.youtube.com/watch?v=rCMh7srOqvw)
 - [Own Your Second Brain: Set Up org-roam on Your Own Machine](https://www.ianjones.us/blog/2020-05-05-doom-emacs/)
