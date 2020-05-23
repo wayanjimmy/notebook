@@ -19,6 +19,7 @@ metaDescription: "Longboard, Skateboard and Cruiseboard"
 - [Watermelon Boardshop: Jakarta](https://www.instagram.com/watermelonboardshop/)
 
 ## Links
+
 - [Foot Breaking](https://www.youtube.com/watch?v=l3EyJPm2E6s)
 - [Learn to skate](https://www.youtube.com/playlist?list=PL34F060CE1BA3E968)
 - [Best Longboards Beginners](https://longboardbrand.com/best-longboards-beginners)
