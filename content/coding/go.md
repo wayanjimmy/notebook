@@ -10,21 +10,22 @@ metaDescription: "Go"
 
 ## Interesting projects
 
+- [magefile](https://magefile.org/)
+- [https://github.com/helm/helm](https://github.com/helm/helm)
+- [https://github.com/nurdism/neko](https://github.com/nurdism/neko)
 - [https://github.com/checkr/flagr](https://github.com/checkr/flagr)
+- [https://github.com/cube2222/jql](https://github.com/cube2222/jql)
 - [https://github.com/tsenart/vegeta](https://github.com/tsenart/vegeta)
 - [https://github.com/getfider/fider](https://github.com/getfider/fider)
+- [https://github.com/kubernetes/kops](https://github.com/kubernetes/kops)
+- [https://github.com/blevesearch/bleve](https://github.com/blevesearch/bleve)
 - [https://github.com/containous/traefik](https://github.com/containous/traefik)
+- [https://github.com/kubernetes/kubectl](https://github.com/kubernetes/kubectl)
+- [https://github.com/kubernetes/minikube](https://github.com/kubernetes/minikube)
 - [https://github.com/GoAdminGroup/go-admin](https://github.com/GoAdminGroup/go-admin)
 - [https://github.com/widnyana/tech-assesment](https://github.com/widnyana/tech-assesment)
 - [https://github.com/quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests)
 - [https://github.com/girikuncoro/go-design-pattern](https://github.com/girikuncoro/go-design-pattern)
-- [https://github.com/cube2222/jql](https://github.com/cube2222/jql)
-- [https://github.com/kubernetes/kubectl](https://github.com/kubernetes/kubectl)
-- [https://github.com/kubernetes/minikube](https://github.com/kubernetes/minikube)
-- [https://github.com/helm/helm](https://github.com/helm/helm)
-- [https://github.com/kubernetes/kops](https://github.com/kubernetes/kops)
-- [https://github.com/nurdism/neko](https://github.com/nurdism/neko)
-- [https://github.com/blevesearch/bleve](https://github.com/blevesearch/bleve)
 
 ## Interesting go modules
 
@@ -52,8 +53,9 @@ metaDescription: "Go"
 ## Links
 
 - [Golang Enums](https://www.ribice.ba/golang-enums/)
+- [Matryer: Building API](https://go-talks.appspot.com/github.com/matryer/golanguk/building-apis.slide)\
+- [My journey on learning Go](https://trello.com/b/uXd1YA00/on-learning-go)
 - [Go development environment setup](/coding/go-development-environment-setup.md)
 - [https://github.com/hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go)
-- [Matryer: Building API](https://go-talks.appspot.com/github.com/matryer/golanguk/building-apis.slide)
 
 #golang
