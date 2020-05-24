@@ -53,6 +53,7 @@ metaDescription: "Go"
 ## Links
 
 - [Golang Enums](https://www.ribice.ba/golang-enums/)
+- [Go Time Formatting](http://gotime.agardner.me/)
 - [Matryer: Building API](https://go-talks.appspot.com/github.com/matryer/golanguk/building-apis.slide)\
 - [My journey on learning Go](https://trello.com/b/uXd1YA00/on-learning-go)
 - [Go development environment setup](/coding/go-development-environment-setup.md)
