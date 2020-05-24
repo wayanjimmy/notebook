@@ -87,6 +87,7 @@ But git approaches the task a bit differently than most Version Control Systems.
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 - [Git at 15: How Git Changed the Way We Code](https://thenewstack.io/git-at-15-how-git-changed-the-way-we-code/)
 - **SHOULD READ** [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)
+- [How the Internet will (one day) transform government](https://youtu.be/CEN4XNth61o?list=PLhXZp00uXBk7MyKJt_lABUHjJJAM78HZM)
 - [https://twitter.com/flexdinesh/status/1215119465068675072](https://twitter.com/flexdinesh/status/1215119465068675072?s=20)
 - **SHOULD READ** [https://owenou.com/ten-things-you-didnt-know-git-and-github-could-do](https://owenou.com/ten-things-you-didnt-know-git-and-github-could-do/)
 
