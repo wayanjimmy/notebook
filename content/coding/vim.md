@@ -12,18 +12,22 @@ Tmux & vim adalah pasangan yang bagus untuk "Productive Mouse-Free Development".
 
 ## Notes
 
-Edit other file on the same directory with current file
-
-```
-:e %:h/${filename}
-tabe %:h/${filename}
-```
+- Edit file lain yang masih 1 direktori dengan file yang sedang diedit
+    ```
+    :e %:h/${filename}
+    tabe %:h/${filename}
+    ```
+    
+- Pindah buffer dengan [LeaderF](https://github.com/Yggdroot/LeaderF), LeaderF memungkin pindah buffer dengan fuzzy search mirip dengan `Ctrl + P` di fzf
+  - `, + fb` untuk pindah-pindah buffer
+  - Lebih detail cek di [neovim config](https://github.com/wayanjimmy/dotfiles/blob/master/.config/nvim/init.vim#L186-L189)
 
 ## Links
 
 - [Tmux](/coding/tmux)
 - [Neovim](https://neovim.io)
-- [Vimcasts](http://vimcasts.org)
-- [MasteringVim](https://twitter.com/masteringvim)
 - [Tmux 2](https://pragprog.com/book/bhtmux2/tmux-2)
+- [Vimcasts](http://vimcasts.org)
+- [LeaderF](https://github.com/Yggdroot/LeaderF)
+- [MasteringVim](https://twitter.com/masteringvim)
 - [Practical Vim](https://pragprog.com/book/dnvim/practical-vim)
