@@ -35,7 +35,7 @@ ln -s /usr/local/opt/emacs-plus/Emacs.app /Applications/Emacs.app
 - `SPC p p` - swith between projects
 - `SPC f p` - quickly edit doom's config
 - `SPC f r` - open recent
-e
+  e
 - `SPC f R` - open recently visited files on context the current project
 - `SPC b b` or `SPC ,`- switch between buffers
 
@@ -49,3 +49,4 @@ After editing `~/.doom.d/packages.el` make sure run `doom refresh`
 - [Zaiste Programming: Emacs Doom Episode](https://www.youtube.com/playlist?list=PLhXZp00uXBk4np17N39WvB80zgxlZfVwj)
 - [Full IDE features support for golang in Doom Emacs](https://www.reddit.com/r/emacs/comments/gq6jz2/full_ide_features_support_for_golang_in_doom_emacs/)
 - [Own Your Second Brain: Set Up org-roam on Your Own Machine](https://www.ianjones.us/blog/2020-05-05-doom-emacs/)
+- [Full IDE features support for golang in Doom Emacs](https://stackoverflow.com/questions/61998389/full-ide-features-support-for-golang-in-doom-emacs)
