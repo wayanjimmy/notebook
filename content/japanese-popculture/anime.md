@@ -14,6 +14,7 @@ Saya senang menghabiskan waktu dengan menonton Anime, berikut adalah daftar yang
 - [Hanebado](https://myanimelist.net/anime/37259/Hanebado)
 - [Grand Blue](https://myanimelist.net/anime/37105/Grand_Blue)
 - [Kimi no Na wa.](https://myanimelist.net/anime/32281/Kimi_no_Na_wa)
+- [Tsuki ga Kirei](https://id.wikipedia.org/wiki/Tsuki_ga_Kirei)
 - [Hoshiai_no_Sora](https://myanimelist.net/anime/37972/Hoshiai_no_Sora)
 - [Kotonoha no Niwa](https://myanimelist.net/anime/16782/Kotonoha_no_Niwa)
 - [Naruto Shippuuden](https://myanimelist.net/anime/1735/Naruto__Shippuuden)
