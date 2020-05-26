@@ -1,42 +1,32 @@
 ---
-title: "Analytical & Critical Thinking Skills"
-metaTitle: "Analytical & Critical Thinking Skills"
-metaDescription: "Analytical & Critical Thinking Skills by Afu"
+title: "95% vs 5%"
+metaTitle: "95% vs 5%"
+metaDescription: "95% vs 5%"
 ---
 
-### Cara Memulai Menulis
+- versi Ronan Tang 95% vs 5%
+  - 5% adalah semua hal diluar kita
+    - keluarga, temen, pasangan, pekerjaan,
+    - semua ini mempengaruhi kita hanya 5%
+    - banyak orang menyalahkan hal ini
+  - 95% adalah otak kita sendiri
+    - otak hightech tapi kita yang gaptek ga bisa pake otak
+    - berusaha kuatkan 95%
+    - salah satu cara dengan meditasi
+- ketika seseorang lebih fokus di 5%
 
-1. Mulai dari versi 1 kalimat dari apa yang mau ditulis itu apa ?
-2. Dikembangkan jadi beberapa bagian utama
-   - Pembuka / Latar belakang
-   - Masalahnya apa ? dan solusi
-   - Buat beberapa bullet point yang bisa menjadi kalimat awal masing-masing paragraf
+  - environment yg mempengaruhi kita bukan sebaliknya
+  - menyalahkan sekitar / orang lain padahal masalahnya diri kita sendiri
 
-> The power of “ The shitty first draft”
+- versi Dr Joe Dispenza
 
-### Jangan Malu Bertanya
+  - Alam sadar manusia cuma 5%
+  - 95% bawah sadar, otomatis
+    - ketika keterusan main handphone bisa jadi otomatis
+  - dengan meditasi bisa kenalan dengan alam bawah sadar
+  - belajar mengenal diri sendiri
+  - apakah kita punya ego, punya trauma?
 
-Jangan takut bertanya bodoh karena menunjukan kita curious tetapi pertanyaan selanjutnya harus lebih berbobot
+## Links
 
-### Social Media
-
-Social media adalah kurasi dari hidup kita seperti trailer film
-
-### Prioritas?
-
-Ketika bingung dengan prioritas
-
-- Kenali diri sendiri
-- Diskusi dengan peer atau kenalan, karena teman kadang dapat mengingatkan
-
-Manusia lebih gampang memilih jika ada komparasi Jika di etalase hanya ada 1 wine karena ga ada perbandingan, orang bisa tidak jadi membeli Trik berdagang membuat beberapa pilihan wine misal 1 wine $18 1 wine $30 1 wine \$100
-
-Padahal bisa saja value semua wine adalah sama Tapi hati hati dengan terlalu banyak pilihan dapat juga membuat orang tidak ingin memilih
-
-### Membaca cerdas
-
-Bukan tentang membaca buku banyak, karena tidak semua buku bagus. Namun tentang apa inti dari buku tersebut dan mengaplikasikanya di kehidupan sehari-hari
-
-Ketika media memberitakan sesuatu hal
-
-Take a step back Ini media kepentingannya apa ? Siapa yang punya media ? Kenapa media framing seperti ini ? Analisis segala sesuatu dengan sisi kritis, jangan diterima 100%
+- [Peace Sea Podcast Ep.5: 95% vs 5%](https://open.spotify.com/episode/61UOdzKLIDiYnd2cJ8RO8t?si=4VwwXsqFQcq4ukbv8BBXzQ)
