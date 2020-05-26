@@ -30,3 +30,5 @@ metaDescription: "95% vs 5%"
 ## Links
 
 - [Peace Sea Podcast Ep.5: 95% vs 5%](https://open.spotify.com/episode/61UOdzKLIDiYnd2cJ8RO8t?si=4VwwXsqFQcq4ukbv8BBXzQ)
+
+#mental-health #neuro-science #meditation

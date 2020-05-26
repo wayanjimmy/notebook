@@ -40,3 +40,9 @@ Bukan tentang membaca buku banyak, karena tidak semua buku bagus. Namun tentang 
 Ketika media memberitakan sesuatu hal
 
 Take a step back Ini media kepentingannya apa ? Siapa yang punya media ? Kenapa media framing seperti ini ? Analisis segala sesuatu dengan sisi kritis, jangan diterima 100%
+
+## Links
+
+- [Thirty Days Of Lunch Podcast: (Afutami on Critical Thinking & Privilege)](https://open.spotify.com/episode/4lhi7jIzFwZhvFvRxt2NPy?si=pRkIfKikSNKGj5U4g4UT4g)
+
+#analytical-thinking
