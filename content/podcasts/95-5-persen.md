@@ -18,7 +18,7 @@ metaDescription: "95% vs 5%"
   - environment yg mempengaruhi kita bukan sebaliknya
   - menyalahkan sekitar / orang lain padahal masalahnya diri kita sendiri
 
-- versi Dr Joe Dispenza
+- versi [Dr Joe Dispenza](https://twitter.com/drjoedispenza)
 
   - Alam sadar manusia cuma 5%
   - 95% bawah sadar, otomatis
