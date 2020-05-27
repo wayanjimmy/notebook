@@ -33,7 +33,20 @@ const config = {
     }
   },
   sidebar: {
-    forcedNavOrder: [],
+    forcedNavOrder: [
+      "/books",
+      "/coding",
+      "/cooking",
+      "/finance",
+      "/health",
+      "/herbs",
+      "/japanese-popculture",
+      "/languages",
+      "/podcasts",
+      "/quotes",
+      "/talks",
+      "/workshops"
+    ],
     collapsedNav: [
       "/books",
       "/cooking",
@@ -45,7 +58,7 @@ const config = {
       "/podcasts",
       "/coding",
       "/talks",
-      "/workshop",
+      "/workshops",
       "/quotes",
       "/japanese-popculture"
     ],
