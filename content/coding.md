@@ -9,6 +9,7 @@ metaDescription: "My coding notes"
 - [Fish](/coding/fish)
 - [Tmux](/coding/tmux)
 - [Docker](/coding/docker)
+- [Design](/coding/design)
 - [Adminer](/coding/adminer)
 - [Espanso](/coding/espanso)
 - [Laravel](/coding/laravel)
