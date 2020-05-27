@@ -83,12 +83,15 @@ But git approaches the task a bit differently than most Version Control Systems.
 - [Gitlab Training](https://github.com/NETWAYS/gitlab-training)
 - [Github gists from command line](https://github.com/danielecook/gg)
 - [Forgit: using git interactively](https://github.com/wfxr/forgit)
+- [Tech Talk: Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8&feature=youtu.be)
 - [Karma git commit message pattern](http://karma-runner.github.io/4.0/dev/git-commit-msg.html)
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+- [The mind behind Linux | Linus Torvalds](https://www.youtube.com/watch?v=o8NPllzkFhE)
 - [Git at 15: How Git Changed the Way We Code](https://thenewstack.io/git-at-15-how-git-changed-the-way-we-code/)
 - **SHOULD READ** [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)
 - [How the Internet will (one day) transform government](https://youtu.be/CEN4XNth61o?list=PLhXZp00uXBk7MyKJt_lABUHjJJAM78HZM)
 - [https://twitter.com/flexdinesh/status/1215119465068675072](https://twitter.com/flexdinesh/status/1215119465068675072?s=20)
+- ["LOTS of People Have IDEAS. Can You EXECUTE YOURS?" - Linus Torvalds - Top 10 Rules](https://www.youtube.com/watch?v=xZRo37r70lE)
 - **SHOULD READ** [https://owenou.com/ten-things-you-didnt-know-git-and-github-could-do](https://owenou.com/ten-things-you-didnt-know-git-and-github-could-do/)
 
-#git #gitlab #tools
+#git #github #gitlab #linus
