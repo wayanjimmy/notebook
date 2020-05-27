@@ -1,10 +1,8 @@
 ---
-title: "Go Dep"
-metaTitle: "Go Dep"
-metaDescription: "Go Dep"
+title: "Dep"
+metaTitle: "Dep"
+metaDescription: "Dep, Go's dependency manager"
 ---
-
-Go dependency management tool
 
 ## Notes
 
@@ -31,4 +29,4 @@ rm -rf vendor #pastikan folder vendor dihapus
 - [Go](/coding/go)
 - [https://github.com/GetStream/vg](https://github.com/GetStream/vg)
 
-#golang
+#go #dep

@@ -4,10 +4,6 @@ metaTitle: "Go"
 metaDescription: "Go"
 ---
 
-## Playground
-
-- [https://goplay.space](https://goplay.space/)
-
 ## Interesting projects
 
 - [magefile](https://magefile.org/)
@@ -35,7 +31,7 @@ metaDescription: "Go"
 - [UniPDF](https://github.com/unidoc/unipdf)
 - [Mediary](https://github.com/HereMobilityDevelopers/mediary)
 
-## Should listen podcasts
+## Podcasts
 
 - [On application design](https://changelog.com/gotime/102)
 - [Building search tools in Go](https://changelog.com/gotime/104)
@@ -52,7 +48,11 @@ metaDescription: "Go"
 
 ## Links
 
+- [Dep](/coding/dep)
+- [Testing](/coding/testing)
+- [HTTP Client](/coding/httpclient)
 - [Golang Enums](https://www.ribice.ba/golang-enums/)
+- [Go Playground](https://goplay.space/)
 - [Go Time Formatting](http://gotime.agardner.me/)
 - [Matryer: Building API](https://go-talks.appspot.com/github.com/matryer/golanguk/building-apis.slide)\
 - [My journey on learning Go](https://trello.com/b/uXd1YA00/on-learning-go)

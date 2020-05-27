@@ -14,3 +14,5 @@ metaDescription: "Testing in Go"
 
 - [Godotenv Command Mode](https://github.com/joho/godotenv#command-mode)
 - [Can't use godotenv when running tests](https://github.com/joho/godotenv/issues/43)
+
+#testing #go
