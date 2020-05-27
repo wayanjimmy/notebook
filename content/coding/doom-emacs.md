@@ -38,6 +38,7 @@ ln -s /usr/local/opt/emacs-plus/Emacs.app /Applications/Emacs.app
   e
 - `SPC f R` - open recently visited files on context the current project
 - `SPC b b` or `SPC ,`- switch between buffers
+- `SPC SPC` - file search within a project
 
 ### Packages
 
