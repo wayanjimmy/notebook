@@ -14,6 +14,7 @@ metaDescription: "My coding notes"
 - [Espanso](/coding/espanso)
 - [Laravel](/coding/laravel)
 - [ReactJS](/coding/reactjs)
+- [Alacritty](/coding/alacritty)
 - [Doom Emacs](/coding/doom-emacs)
 - [APIblueprint](/coding/apiblueprint)
 - [Data Modeling](/coding/data-modeling)
