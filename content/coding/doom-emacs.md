@@ -45,8 +45,8 @@ ln -s /usr/local/opt/emacs-plus/Emacs.app /Applications/Emacs.app
 After editing `~/.doom.d/packages.el` make sure run `doom refresh`
 
 ## Links
-
 - [Doom Emacs Search](https://www.reddit.com/r/emacs/comments/gr72by/how_do_you_guys_refine_search_results_doom_emacs/)
+- [Getting Started Org Mode](https://www.youtube.com/watch?v=SzA2YODtgK4)
 - [Dired rename multiple files](http://pragmaticemacs.com/emacs/dired-rename-multiple-files/)
 - [Doom emacs Gettings Stardted Macos](https://github.com/hlissner/doom-emacs/blob/develop/docs/getting_started.org#with-homebrew)
 - [Zaiste Programming: Emacs Doom Episode](https://www.youtube.com/playlist?list=PLhXZp00uXBk4np17N39WvB80zgxlZfVwj)
