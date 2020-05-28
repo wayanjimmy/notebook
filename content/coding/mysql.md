@@ -71,7 +71,8 @@ db:
 
 ## Links
 
-- [https://hub.docker.com/\_/mysql](https://hub.docker.com/_/mysql)
 - [mycli](https://github.com/dbcli/mycli)
+- [JSON Data Fields](https://www.sitepoint.com/use-json-data-fields-mysql-databases/)
+- [MySQL Docker Image](https://hub.docker.com/_/mysql)
 
 #database #rdbms #mysql #docker
