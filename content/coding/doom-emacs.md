@@ -47,8 +47,9 @@ After editing `~/.doom.d/packages.el` make sure run `doom refresh`
 ## Links
 
 - [Doom Emacs Search](https://www.reddit.com/r/emacs/comments/gr72by/how_do_you_guys_refine_search_results_doom_emacs/)
+- [Dired rename multiple files](http://pragmaticemacs.com/emacs/dired-rename-multiple-files/)
 - [Doom emacs Gettings Stardted Macos](https://github.com/hlissner/doom-emacs/blob/develop/docs/getting_started.org#with-homebrew)
 - [Zaiste Programming: Emacs Doom Episode](https://www.youtube.com/playlist?list=PLhXZp00uXBk4np17N39WvB80zgxlZfVwj)
 - [Full IDE features support for golang in Doom Emacs](https://www.reddit.com/r/emacs/comments/gq6jz2/full_ide_features_support_for_golang_in_doom_emacs/)
-- [Own Your Second Brain: Set Up org-roam on Your Own Machine](https://www.ianjones.us/blog/2020-05-05-doom-emacs/)
 - [Full IDE features support for golang in Doom Emacs](https://stackoverflow.com/questions/61998389/full-ide-features-support-for-golang-in-doom-emacs)
+- [Own Your Second Brain: Set Up org-roam on Your Own Machine](https://www.ianjones.us/blog/2020-05-05-doom-emacs/)
