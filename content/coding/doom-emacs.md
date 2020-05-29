@@ -39,12 +39,14 @@ ln -s /usr/local/opt/emacs-plus/Emacs.app /Applications/Emacs.app
 - `SPC f R` - open recently visited files on context the current project
 - `SPC b b` or `SPC ,`- switch between buffers
 - `SPC SPC` - file search within a project
+- `<s` followed by TAB - insert code snippets on org mode
 
 ### Packages
 
 After editing `~/.doom.d/packages.el` make sure run `doom refresh`
 
 ## Links
+
 - [Doom Emacs Search](https://www.reddit.com/r/emacs/comments/gr72by/how_do_you_guys_refine_search_results_doom_emacs/)
 - [Getting Started Org Mode](https://www.youtube.com/watch?v=SzA2YODtgK4)
 - [Dired rename multiple files](http://pragmaticemacs.com/emacs/dired-rename-multiple-files/)
