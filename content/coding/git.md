@@ -87,6 +87,7 @@ But git approaches the task a bit differently than most Version Control Systems.
 - [Karma git commit message pattern](http://karma-runner.github.io/4.0/dev/git-commit-msg.html)
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 - [The mind behind Linux | Linus Torvalds](https://www.youtube.com/watch?v=o8NPllzkFhE)
+- [Gitlet, your own version-control system](https://inst.eecs.berkeley.edu/~cs61b/fa15/hw/proj3/)
 - [Git at 15: How Git Changed the Way We Code](https://thenewstack.io/git-at-15-how-git-changed-the-way-we-code/)
 - **SHOULD READ** [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)
 - [How the Internet will (one day) transform government](https://youtu.be/CEN4XNth61o?list=PLhXZp00uXBk7MyKJt_lABUHjJJAM78HZM)
