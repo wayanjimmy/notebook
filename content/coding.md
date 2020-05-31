@@ -18,6 +18,7 @@ metaDescription: "My coding notes"
 - [Doom Emacs](/coding/doom-emacs)
 - [APIblueprint](/coding/apiblueprint)
 - [Data Modeling](/coding/data-modeling)
+- [Computer Science](/coding/cs)
 
 ## Languages
 
