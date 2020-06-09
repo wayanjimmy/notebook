@@ -18,6 +18,7 @@ Tmux & vim adalah pasangan yang bagus untuk "Productive Mouse-Free Development".
   tabe %:h/${filename}
   ```
 - Pindah buffer dengan [LeaderF](https://github.com/Yggdroot/LeaderF), LeaderF memungkin pindah buffer dengan fuzzy search mirip dengan `Ctrl + P` di fzf
+
   - `, + fb` untuk pindah-pindah buffer
   - Lebih detail cek di [neovim config](https://github.com/wayanjimmy/dotfiles/blob/master/.config/nvim/init.vim#L186-L189)
 
@@ -35,3 +36,4 @@ Tmux & vim adalah pasangan yang bagus untuk "Productive Mouse-Free Development".
 - [Vim Ctrlspace](https://github.com/vim-ctrlspace/vim-ctrlspace)
 - [Practical Vim](https://pragprog.com/book/dnvim/practical-vim)
 - [Neovim Terminal Emulator](https://thoughtbot.com/upcase/videos/neovims-terminal-emulator)
+- [Learn Vim on Upcase by thoughtbot](https://thoughtbot.com/upcase/vim)
