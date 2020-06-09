@@ -34,3 +34,4 @@ Tmux & vim adalah pasangan yang bagus untuk "Productive Mouse-Free Development".
 - [MasteringVim](https://twitter.com/masteringvim)
 - [Vim Ctrlspace](https://github.com/vim-ctrlspace/vim-ctrlspace)
 - [Practical Vim](https://pragprog.com/book/dnvim/practical-vim)
+- [Neovim Terminal Emulator](https://thoughtbot.com/upcase/videos/neovims-terminal-emulator)
