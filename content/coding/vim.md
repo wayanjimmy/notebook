@@ -22,7 +22,7 @@ Tmux & vim adalah pasangan yang bagus untuk "Productive Mouse-Free Development".
   - `, + fb` untuk pindah-pindah buffer
   - Lebih detail cek di [neovim config](https://github.com/wayanjimmy/dotfiles/blob/master/.config/nvim/init.vim#L186-L189)
 
-- Melihat petunjuk tentang arti key notation seperti <CR> (Carriage Return)
+- Melihat petunjuk tentang arti key notation seperti `<CR> (Carriage Return)`
   - ketik `:help key-notation`
 
 ## Links
