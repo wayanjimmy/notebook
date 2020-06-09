@@ -12,10 +12,10 @@ metaDescription: "Health"
 - Olahraga pagi
   - Pemanasan
   - [Full body workout](https://www.youtube.com/watch?v=gQ3EM0BXEoE)
-  - [Radio Taiso Workout](http://www.jp-life.japanpost.jp/health/radio/hlt_rdo_movie.html)
+  - [Radio Taiso Workout](https://re-view.shenans.co/video?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXrEH5JLljDI)
 - Night routine
   - [Skin Care](/health/skin-care)
-  - [Stretching, relaxing exercises](https://www.youtube.com/watch?v=jOLmuuB4k5M)
+  - [Stretching, relaxing exercises](https://re-view.shenans.co/video?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjOLmuuB4k5M)
 
 ## Links
 
