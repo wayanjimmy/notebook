@@ -6,6 +6,7 @@ metaDescription: "Opensource"
 
 ## Links
 
+- [Opensource Guide](https://opensource.guide/)
 - [GitHub stars won’t pay your rent](https://medium.com/@kitze/github-stars-wont-pay-your-rent-8b348e12baed)
 - [Building a Business on Open Source](/Building_a_Business_on_Open_Source_Ebook.pdf)
 - [Roads and Bridges the Unseen Labor](/roads_and_bridges_the_unseen_labor.pdf)
