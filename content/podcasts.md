@@ -20,5 +20,7 @@ metaDescription: "Podcasts"
 
 ## Favorite Episodes
 
+- [Ep. 2. Self-love vs Narcissism](https://open.spotify.com/episode/6NaVAeuANnBP3bDC6RgxNh?si=GfO3-E0rRTCQQGS8lFhx5w)
+- [Leading GitHub to a \$7.5 billion acquisition (The Changelog #395)](https://open.spotify.com/episode/2sBau2a2pcbsKnRQMyn8zU?si=bznzGUXxQ4mvTpOveIATYQ)
 - [Lunch #14 : Living Life The Fun Way feat. Arief Widhiyasa (CEO Agate International)](https://open.spotify.com/episode/0GKzMQxFFU7JgCAnn5lX6R?si=45W-axdtTzeB0ZeCcM1GnQ)
 - [Simak Kiprah Ariya Hidayat Selanjutnya, Setelah Mengantarkan Dua Perusahaan Silicon Valley Exit!](https://open.spotify.com/episode/5YAgy76NzGe6N2UYy8aT8p?si=C6WJA8VDRRqW9PGX5FEtKg)
