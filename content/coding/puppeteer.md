@@ -15,7 +15,6 @@ metaDescription: "Web Scraping using Puppeteer"
 ## Links
 
 - [https://pptr.dev](https://pptr.dev)
-- [Learning log 2020-03-08](/fragments/learning-log-2020-03-08.md)
 - [https://github.com/puppeteer/examples](https://github.com/puppeteer/examples)
 - [https://github.com/checkly/puppeteer-examples](https://github.com/checkly/puppeteer-examples)
 - [https://github.com/alekzonder/docker-puppeteer](https://github.com/alekzonder/docker-puppeteer)
