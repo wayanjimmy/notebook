@@ -13,3 +13,5 @@ metaDescription: "Opensource"
 - [The economics of package management](https://github.com/ceejbot/economics-of-package-management/blob/master/essay.md)
 - [Deep Talk - Bagaimana Open Source bisa menyelesaikan masalah kesetaraan teknologi di Indonesia](https://speakerdeck.com/hyperjump/deep-talk-bagaimana-open-source-bisa-menyelesaikan-masalah-kesetaraan-teknologi-di-indonesia)
 
+#github #gitlab #git #foss
+

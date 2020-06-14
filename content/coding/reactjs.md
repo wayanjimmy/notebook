@@ -12,6 +12,7 @@ Dokumentasi react official sudah sangat bagus, saya sarankan banget untuk memula
 - [https://reactjs.org/tutorial/tutorial.html](https://reactjs.org/tutorial/tutorial.html)
 - [Lesson learned from 5 years in React](https://www.dropbox.com/s/tsid5bnphznbvjv/Lessons%20learned%20from%205%20years%20in%20React.docx?dl=0)
 - [Our Best Practices for Writing React Components](https://engineering.musefind.com/our-best-practices-for-writing-react-components-dec3eb5c3fc8)
+- [React patterns & techniques to use in development for React Developer](https://github.com/reactpatterns/reactpatterns)
 - **SHOULD READ** [https://egghead.io/courses/the-beginner-s-guide-to-react](https://egghead.io/courses/the-beginner-s-guide-to-react)
 - **SHOULD READ** [https://reactjs.org/docs/getting-started.html#thinking-in-react](https://reactjs.org/docs/getting-started.html#thinking-in-react)
 - [The ultimate roundup of React form validation solutions](https://blog.logrocket.com/the-ultimate-roundup-of-react-form-validation-solutions/)
