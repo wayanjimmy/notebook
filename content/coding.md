@@ -20,6 +20,7 @@ metaDescription: "My coding notes"
 - [APIblueprint](/coding/apiblueprint)
 - [Data Modeling](/coding/data-modeling)
 - [Computer Science](/coding/cs)
+- [Web Scraping using Puppeteer](/coding/puppeteer)
 
 ## Languages
 
