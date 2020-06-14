@@ -27,3 +27,4 @@ metaDescription: "Longboard, Skateboard and Cruiseboard"
 - [How to Choose the Best Beginner Longboard](https://www.youtube.com/watch?v=93Qd0aNAmuw)
 - [How to clean your bearings the easiest way tutorial!](https://www.youtube.com/watch?v=ek8I6mok7EY)
 - [pj.utami: Difference between skateboard, longboard and carver](https://www.instagram.com/p/CALENpRgsl9/)
+- [Best skateboards Beginners](https://skateboardcave.com/best-beginner-skateboard/)
