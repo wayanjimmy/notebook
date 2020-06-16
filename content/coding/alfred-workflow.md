@@ -16,3 +16,4 @@ Beberapa alfred workflow yang saya gunakan
 ## Links
 
 - [Small Workflows](https://github.com/nikitavoloboev/small-workflows)
+- [A collection of Alfred 3 and 4 workflows that will rock your world](https://github.com/zenorocha/alfred-workflows)
