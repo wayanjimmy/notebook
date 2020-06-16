@@ -15,5 +15,6 @@ metaDescription: "Learning Herbs"
 
 ## Links
 
-- [Trio Combo ACV, Honey, Chia seeds](/herbs/acv-chia-seeds)
 - [Healing Your Body With Food](https://www.spiritsciencecentral.com/blog/healing-your-body-with-food-the-complete-movie)
+- [Trio Combo ACV, Honey, Chia seeds](/herbs/acv-chia-seeds)
+- [Buku Cerdas Memilih Obat Tradisional dan Suplemen Kesehatan](http://bit.ly/BukuCerdasMemilihOTSK)
