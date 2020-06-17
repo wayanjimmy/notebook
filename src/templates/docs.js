@@ -3,14 +3,15 @@ import Helmet from "react-helmet";
 import { graphql } from "gatsby";
 import MDXRenderer from "gatsby-plugin-mdx/mdx-renderer";
 
-import { Layout, Link } from "$components";
-import NextPrevious from "../components/NextPrevious";
 import config from "../../config";
 import {
   Edit,
   StyledHeading,
   StyledMainWrapper
 } from "../components/styles/Docs";
+import { Layout, Link } from "$components";
+import NextPrevious from "../components/NextPrevious";
+import UtterancesComments from "../components/UtterancesComments";
 
 const forcedNavOrder = config.sidebar.forcedNavOrder;
 
@@ -119,6 +120,7 @@ export default class MDXRuntimeTest extends Component {
         </div>
         <StyledMainWrapper>
           <MDXRenderer>{mdx.body}</MDXRenderer>
+          <UtterancesComments />
         </StyledMainWrapper>
         <div className={"addPaddTopBottom"}>
           <NextPrevious mdx={mdx} nav={nav} />
