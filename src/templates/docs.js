@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import Helmet from "react-helmet";
 import { graphql } from "gatsby";
 import MDXRenderer from "gatsby-plugin-mdx/mdx-renderer";
+import get from "lodash.get";
 
 import config from "../../config";
 import {
@@ -85,6 +86,8 @@ export default class MDXRuntimeTest extends Component {
         : canonicalUrl;
     canonicalUrl = canonicalUrl + mdx.fields.slug;
 
+    const slug = get(mdx, "fields.slug", "");
+
     return (
       <Layout {...this.props}>
         <Helmet>
@@ -120,7 +123,7 @@ export default class MDXRuntimeTest extends Component {
         </div>
         <StyledMainWrapper>
           <MDXRenderer>{mdx.body}</MDXRenderer>
-          <UtterancesComments url={mdx.field.slug} key={canonicalUrl} />
+          {slug !== "" ? <UtterancesComments url={slug} key={slug} /> : null}
         </StyledMainWrapper>
         <div className={"addPaddTopBottom"}>
           <NextPrevious mdx={mdx} nav={nav} />
