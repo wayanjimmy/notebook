@@ -7,7 +7,7 @@ export default class UtterancesComments extends React.Component {
     this.component = React.createRef();
   }
 
-  componentDidMount() {
+  componentDidMount(props) {
     const { url } = this.props;
     const scriptElem = document.createElement("script");
 
@@ -27,6 +27,7 @@ export default class UtterancesComments extends React.Component {
     scriptElem.setAttribute("issue-term", url);
     scriptElem.setAttribute("label", "blog-comment");
     scriptElem.setAttribute("theme", "github-light");
+    scriptElem.id = "u-comments";
 
     this.component.current.appendChild(scriptElem);
   }
