@@ -120,7 +120,7 @@ export default class MDXRuntimeTest extends Component {
         </div>
         <StyledMainWrapper>
           <MDXRenderer>{mdx.body}</MDXRenderer>
-          <UtterancesComments />
+          <UtterancesComments url={canonicalUrl} />
         </StyledMainWrapper>
         <div className={"addPaddTopBottom"}>
           <NextPrevious mdx={mdx} nav={nav} />
