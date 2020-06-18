@@ -9,7 +9,6 @@ metaDescription: "My coding notes"
 - [Fish](/coding/fish)
 - [Tmux](/coding/tmux)
 - [Macos](/coding/macos)
-- [MySQL](/coding/mysql)
 - [Nginx](/coding/nginx)
 - [HTTPie](/coding/httpie)
 - [Docker](/coding/docker)
@@ -18,7 +17,6 @@ metaDescription: "My coding notes"
 - [Espanso](/coding/espanso)
 - [Laravel](/coding/laravel)
 - [ReactJS](/coding/reactjs)
-- [MongoDB](/coding/mongodb)
 - [CLI Apps](/coding/cliapps)
 - [Interview](/coding/interview)
 - [Puppeteer](/coding/puppeteer)
@@ -30,6 +28,12 @@ metaDescription: "My coding notes"
 - [Alfred Workflow](/coding/alfred-workflow)
 - [Computer Science](/coding/cs)
 - [Never use Floats for Money](/coding/never-use-floats-for-money)
+
+## Databases
+
+- [MySQL](/coding/mysql)
+- [MongoDB](/coding/mongodb)
+- [Elastic Search](/coding/elasticsearch)
 
 ## Languages
 
