@@ -35,4 +35,5 @@ metaDescription: "My coding notes"
 
 - [Go](/coding/go)
 - [CSS](/coding/css)
+- [PHP](/coding/php)
 - [Javascript](/coding/javascipt)
