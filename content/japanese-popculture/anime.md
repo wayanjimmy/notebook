@@ -42,5 +42,6 @@ Saya senang menghabiskan waktu dengan menonton Anime, berikut adalah daftar yang
 ## Planned
 
 - [Barakamon](https://myanimelist.net/anime/22789/Barakamon)
-- [Akame ga Kill](https://myanimelist.net/anime/22199/Akame_ga_Kill/pics)
 - [Code Geass](https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch)
+- [Akame ga Kill](https://myanimelist.net/anime/22199/Akame_ga_Kill/pics)
+- [Isekai Izakaya Nobu](https://myanimelist.net/anime/34420/Isekai_Izakaya__Koto_Aitheria_no_Izakaya_Nobu)
