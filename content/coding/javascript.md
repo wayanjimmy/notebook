@@ -23,4 +23,10 @@ metaDescription: "Javascript"
 - [https://github.com/thomasdondorf/puppeteer-cluster](https://github.com/thomasdondorf/puppeteer-cluster)
 - [https://github.com/lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices)
 
+## Courses that I love
+
+- [Wesbos: ES6 for Everyone](https://wesbos.com/es6-for-everyone)
+- [Pirple: Node Master Class](https://www.pirple.com/)
+- [Egghead: Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
+
 #javascript #node-js
