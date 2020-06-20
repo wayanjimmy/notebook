@@ -12,6 +12,7 @@ Beberapa alfred workflow yang saya gunakan
 - [Alfred Tidy](https://github.com/importre/alfred-tidy)
 - [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches)
 - [Search My Mind](https://github.com/wayanjimmy/searchmymind)
+- [Alfred Kaomoji](https://github.com/vinkla/alfred-kaomoji)
 
 ## Links
 
