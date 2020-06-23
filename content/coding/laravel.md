@@ -100,6 +100,7 @@ https://stackoverflow.com/questions/38635257/composer-content-length-mismatch
 - [Laravel Schematics](https://github.com/mtolhuys/laravel-schematics)
 - [Tailwindcss Spinner](https://github.com/aniftyco/tailwindcss-spinner)
 - [Laravel Query Monitor](https://github.com/supliu/laravel-query-monitor)
+- [Lyra is an administration panel for Laravel](https://github.com/sertxudeveloper/Lyra)
 
 ## Links
 
