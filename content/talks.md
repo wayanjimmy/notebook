@@ -21,6 +21,8 @@ metaDescription: "List of talks that I watched, want to watch and notes taken fr
 - [Inside the mind of a master procrastinator | Tim Urban](https://www.youtube.com/watch?v=-seMFHOxZhI)
 - [Can We Choose to Fall Out of Love? | DESSA | TEDxWanChai](https://www.youtube.com/watch?v=-seMFHOxZhI)
 - [How Your Brain Falls In Love | Dawn Maslar | TEDxBocaRaton](https://www.youtube.com/watch?v=eyq2Wo4eUDg)
+- [This could be why you're depressed or anxious | Johann Hari](https://www.youtube.com/watch?v=MB5IX-np5fE)
+- [The Secret of Becoming Mentally Strong | Amy Morin | TEDxOcala](https://www.youtube.com/watch?v=TFbv757kup4)
 - [Looks aren't everything. Believe me, I'm a model. | Cameron Russell](https://www.youtube.com/watch?v=KM4Xe6Dlp0Y)
 - [Life is easy. Why do we make it so hard? | Jon Jandai | TEDxDoiSuthep](https://www.youtube.com/watch?v=21j_OCNLuYg&t=5s)
 - [Consciousness -- the final frontier | Dada Gunamuktananda | TEDxNoosa 2014](https://www.youtube.com/watch?v=lo0X2ZdElQ4)
