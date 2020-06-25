@@ -24,6 +24,7 @@ When we think of the future, we tend to think of obvious and immediate consequen
 - [Why fighting the coronavirus depends on you](https://www.youtube.com/watch?v=dSQztKXR6k0)
 - [What Actually Happens If You Get Coronavirus?](https://www.youtube.com/watch?v=OTYfke545vI)
 - [Sebuah GIF menjelaskan mengapa kita harus diam dirumah](https://twitter.com/AnanyaS1190/status/1241590500571910144)
+- [How to wear a face mask without fogging up your glasses](https://twitter.com/danidonovan/status/1275808433518850049?s=20)
 - [How to boost you immune system against Covid-19 (Coronavirus)?](https://twitter.com/febrinasugianto/status/1238774559190347776)
 - [Kamu akan menularkan 3 orang dengan covid19, sedangkan flu 1.3](https://twitter.com/AlexWhitcomb/status/1241943303563739136)
 - [Pengalaman Korsel menangani COVID-19 bisa disimak di Asian Boss](https://threadreaderapp.com/thread/1246124197501227008.html?refreshed=yes)
