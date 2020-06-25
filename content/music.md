@@ -35,6 +35,7 @@ Selain itu berikut adalah beberapa playlist favorit saya.
 - [The Theory of Everything](https://open.spotify.com/album/02VRifrsiTM73hPGjXduRQ?si=cSShC-yYQl-BbbsfMF3l1Q)
 - [Classical Electronic Music](https://open.spotify.com/playlist/5hMA9Z2laZzxpn6CiwxiZ0?si=J5wmJxQrScKSO-Z2W_eFjw)
 - [Lagu Indonesia Bikin Nyaman](https://open.spotify.com/playlist/7hiqkwPnK3hj8L0Goem8HM?si=T7_58tu4TgS3pSL7v2Rrww)
+- [Lee Burridge • Cercle • Omnia Bali • Indonesia](https://open.spotify.com/playlist/2abmhgR95MEFkRtzXoAw6u?si=XC3d6YvNSxa8iOIiSvlTKA)
 
 ### Monthly
 
