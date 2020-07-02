@@ -24,6 +24,7 @@ metaDescription: "Mechanical Keyboard"
 - https://laserindonesia.com
 - [KBDfans](https://kbdfans.com)
 - [Review KUL ES-87](https://www.kaskus.co.id/thread/5606d4289a0951de348b4568/review-kul-es-87-mechanical-keyboard-cherry-mx-brown)
+- [Awesome Mechanical Keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard)
 - [Find your favorite keycapset!](https://keycapsets.com/)
 - https://github.com/ibnuda/atreus
 - https://ultimatehackingkeyboard.com
