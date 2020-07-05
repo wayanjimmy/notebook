@@ -49,8 +49,8 @@ metaDescription: "Go"
 
 ## Links
 
-- [Dep](/coding/dep)
-- [Testing](/coding/testing)
+- [Dep](/coding/go/dep)
+- [Testing](/coding/go/testing)
 - [HTTP Client](/coding/httpclient)
 - [Golang Enums](https://www.ribice.ba/golang-enums/)
 - [Go Playground](https://goplay.space/)
