@@ -10,4 +10,3 @@ metaDescription: "House"
 - [Room Tour Kamar Kost Aesthetic](https://www.youtube.com/watch?v=k-ILWGxDVeg)
 - [Kumpulan referensi project untuk micro-housing.](https://twitter.com/nadiarhn/status/1274306915216941057)
 
-

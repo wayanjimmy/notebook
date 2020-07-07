@@ -11,3 +11,4 @@ metaDescription: "Productivity"
 - [Deliberate Practice for Software Developer](https://www.redgreencode.com/deliberate-practice-for-software-developers)
 - [How to be productive while working remotely](https://medium.com/@theresiatanzil/how-to-be-productive-while-working-remotely-7925c986fcff)
 - [Getting started, getting used to things, and getting better at things](https://medium.com/@theresiatanzil/getting-started-getting-used-to-things-and-getting-better-at-things-13f04ea1c2ad)
+- [A personal hackathon is a day dedicated to maximizing your productivity.](https://www.personalhackathon.com/)
