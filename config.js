@@ -21,7 +21,6 @@ const config = {
 		  </li>`,
     links: [
       { text: "wayanjimmy.xyz", link: "https://wayanjimmy.xyz" },
-      { text: "blog.wayanjimmy.xyz", link: "https://blog.wayanjimmy.xyz" },
       { text: "resume.wayanjimmy.xyz", link: "https://resume.wayanjimmy.xyz" }
     ],
     search: {
