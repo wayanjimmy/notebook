@@ -17,4 +17,5 @@ metaDescription: "Learning Herbs"
 
 - [Healing Your Body With Food](https://www.spiritsciencecentral.com/blog/healing-your-body-with-food-the-complete-movie)
 - [Trio Combo ACV, Honey, Chia seeds](/herbs/acv-chia-seeds)
+- [Sering sharing tentaeng menanam Tanaman Herbal](https://mobile.twitter.com/pacarkecilku)
 - [Buku Cerdas Memilih Obat Tradisional dan Suplemen Kesehatan](http://bit.ly/BukuCerdasMemilihOTSK)
