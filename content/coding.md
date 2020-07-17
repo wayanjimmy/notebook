@@ -10,6 +10,7 @@ metaDescription: "My coding notes"
 - [Tmux](/coding/tmux)
 - [Macos](/coding/macos)
 - [Nginx](/coding/nginx)
+- [VueJS](/coding/vuejs)
 - [HTTPie](/coding/httpie)
 - [Docker](/coding/docker)
 - [Design](/coding/design)
