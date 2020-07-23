@@ -43,6 +43,7 @@ The key is to work at a company that is REMOTE FIRST. If the remote team is in t
 
 ## Links
 
+- [Empathy Online](https://thoughtbot.com/blog/empathy-online)
 - **SHOULD READ** Gitlab adalah salah satu contoh perusahaan dengan budaya remote first [https://about.gitlab.com/handbook](https://about.gitlab.com/handbook)
 - **SHOULD READ** Everything you need to know about remote work [https://nodesk.co/work-remotely](https://nodesk.co/work-remotely/)
 - **SHOULD READ** [https://jvns.ca/blog/2018/02/18/working-remotely--4-years-in](https://jvns.ca/blog/2018/02/18/working-remotely--4-years-in/)
