@@ -47,8 +47,8 @@ After editing `~/.doom.d/packages.el` make sure run `doom refresh`
 
 ## Links
 
-- [OrgMode Tutorial](https://www.youtube.com/playlist?list=PLVtKhBrRV_ZkPnBtt_TD1Cs9PJlU0IIdE)
 - [Doom Emacs Search](https://www.reddit.com/r/emacs/comments/gr72by/how_do_you_guys_refine_search_results_doom_emacs/)
+- [Rainer: OrgMode Tutorial](https://www.youtube.com/playlist?list=PLVtKhBrRV_ZkPnBtt_TD1Cs9PJlU0IIdE)
 - [Getting Started Org Mode](https://www.youtube.com/watch?v=SzA2YODtgK4)
 - [Dired rename multiple files](http://pragmaticemacs.com/emacs/dired-rename-multiple-files/)
 - [Doom emacs Gettings Stardted Macos](https://github.com/hlissner/doom-emacs/blob/develop/docs/getting_started.org#with-homebrew)
