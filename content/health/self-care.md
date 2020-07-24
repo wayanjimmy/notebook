@@ -1,7 +1,7 @@
 ---
-title: "Skin Care"
-metaTitle: "Skin Care"
-metaDescription: "skin-care-routine,self-care,health"
+title: "Self Care"
+metaTitle: "Self Care"
+metaDescription: "Self Care"
 ---
 
 ## Skin Care
@@ -20,5 +20,8 @@ Mengeksfoliasi kulit dengan mengangkat sel kulit mati pada wajah, ini saya lakuk
 
 - [SUNSCREEN in UV](https://www.youtube.com/watch?v=GRD-xvlhGMc)
 - [Tri Tunggal Skincare](https://twitter.com/inge_august/status/1156207151003529216)
+- [Work from home Self care](https://distributed.blog/2020/07/22/work-from-home-self-care/)
 - [Men's Skin Care Routine | How To Have Healthy Skin](https://www.youtube.com/watch?v=sI1cr4hLkwM)
 - [https://twitter.com/inge_august/status/1180404969205157888](https://twitter.com/inge_august/status/1180404969205157888)
+
+#selfcare #skincare
