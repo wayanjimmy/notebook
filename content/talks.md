@@ -34,6 +34,7 @@ metaDescription: "List of talks that I watched, want to watch and notes taken fr
 - [10 ways to have a better conversation](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation)
 - [The power of introverts | Susan Cain](https://www.youtube.com/watch?v=c0KYU2j0TM4)
 - [Unwavering Focus | Dandapani | TEDxReno](https://www.youtube.com/watch?v=4O2JK_94g3Y)
+- [Failing at Normal: An ADHD Success Story](https://www.youtube.com/watch?v=JiwZQNYlGQI)
 - [How to make stress your friend | Kelly McGonigal](https://www.youtube.com/watch?v=RcGyVTAoXEU)
 - [10 Things I Regret About Node.js - Ryan Dahl (2018)](https://www.youtube.com/watch?v=M3BM9TB-8yA)
 - [The secrets of learning a new language | Lýdia Machová](https://www.youtube.com/watch?v=o_XVt5rdpFY)
