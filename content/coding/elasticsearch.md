@@ -50,7 +50,7 @@ sudo sysctl -w vm.max_map_count=262144
 
 ## Links
 
+- [Building search tools in Go](/content/podcasts/building-search-tools-in-go.md)
 - [https://github.com/elastic/elasticsearch-docker/issues/92](https://github.com/elastic/elasticsearch-docker/issues/92)
 
 #fulltext-search #search-engine #tools
-
