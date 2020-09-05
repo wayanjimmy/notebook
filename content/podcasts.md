@@ -7,7 +7,7 @@ metaDescription: "Podcasts"
 ## Notes Taken
 
 - [95% vs 5%](/podcasts/95-5-persen)
-- [Building search tools in Go](/content/podcasts/building-search-tools-in-go.md)
+- [Building search tools in Go](/podcasts/building-search-tools-in-go)
 - [Financial Planner Freelance](/podcasts/financial-planner-freelance)
 - [Analytical Critical Thinking Skills](/podcasts/analytical-critical-thinking-skills)
 
