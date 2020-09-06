@@ -19,7 +19,7 @@ Mengeksfoliasi kulit dengan mengangkat sel kulit mati pada wajah, ini saya lakuk
 ## Links
 
 - [SUNSCREEN in UV](https://www.youtube.com/watch?v=GRD-xvlhGMc)
-- [ADHD & Motivation](youtube.com/watch?v=OM0Xv0eVGtY)
+- [Try something new](https://www.instagram.com/p/CErmLf_h_1w/)
 - [Tri Tunggal Skincare](https://twitter.com/inge_august/status/1156207151003529216)
 - [Work from home Self care](https://distributed.blog/2020/07/22/work-from-home-self-care/)
 - [Cara Meningkatkan Kualitas Self Talk](https://www.instagram.com/p/CDPkU7Rg846/?utm_source=ig_web_button_share_sheet)
