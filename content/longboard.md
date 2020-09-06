@@ -24,6 +24,7 @@ metaDescription: "Longboard, Skateboard and Cruiseboard"
 - [Learn to skate](https://www.youtube.com/playlist?list=PL34F060CE1BA3E968)
 - [Best Longboards Beginners](https://longboardbrand.com/best-longboards-beginners)
 - [How to ride a penny skateboard](https://youtu.be/12-d4Tbs1XU)
+- [Japanese longboarding teacher](https://www.instagram.com/tatutoshi0206/?igshid=fxjeuh2evbw1)
 - [How to Choose the Best Beginner Longboard](https://www.youtube.com/watch?v=93Qd0aNAmuw)
 - [How to clean your bearings the easiest way tutorial!](https://www.youtube.com/watch?v=ek8I6mok7EY)
 - [pj.utami: Difference between skateboard, longboard and carver](https://www.instagram.com/p/CALENpRgsl9/)
