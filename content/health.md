@@ -28,5 +28,6 @@ metaDescription: "Health"
 - [Radio Taiso Workout](http://www.jp-life.japanpost.jp/health/radio/hlt_rdo_movie.html)
 - [40 Ways to Get Back in Shape](https://www.eatthis.com/get-back-in-shape-tips/)
 - [lavendaire : unwind with me](https://www.youtube.com/watch?v=jOLmuuB4k5M)
+- [How to drink caffeine strategically with the 5 Levels of Fatigue](https://greeneyedguide.com/2019/09/10/how-to-find-the-best-energy-drink-using-the-5-levels-of-fatigue/)
 
 #exercise #radiotaiso #workout #eat #fasting
