@@ -33,6 +33,7 @@ metaDescription: "Go"
 - [Resty](https://github.com/go-resty/resty)
 - [UniPDF](https://github.com/unidoc/unipdf)
 - [Mediary](https://github.com/HereMobilityDevelopers/mediary)
+- [gjson: Get JSON values quickly - JSON parser for Go](https://github.com/tidwall/gjson)
 
 ## Podcasts
 
