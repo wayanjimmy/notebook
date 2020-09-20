@@ -72,6 +72,7 @@ db:
 ## Links
 
 - [mycli](https://github.com/dbcli/mycli)
+- [adminer](/coding/adminer)
 - [JSON Data Fields](https://www.sitepoint.com/use-json-data-fields-mysql-databases/)
 - [MySQL Docker Image](https://hub.docker.com/_/mysql)
 
