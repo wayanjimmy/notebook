@@ -12,12 +12,14 @@ Selain itu berikut adalah beberapa playlist favorit saya.
 
 - [Dirty Rally 2](https://soundcloud.com/user-648320897/sets/dirt-rally-2)
 
-## Youtube Music
+## Youtube
 
 - [Jejepangan](https://music.youtube.com/playlist?list=PLh-bTbk8RQYY7Ocljnk6qB-Jd3FIZxZW-)
 - [Travel Music Love](https://music.youtube.com/playlist?list=PLu1S36l0eVs3uxzUk38MiXL9PMRhlB2-w)
 - [Math Rock: Murphy Radio](https://music.youtube.com/browse/VLPLGrud8XLbi2PGtqLkAVrQqXagaqN4I3_N)
 - [Judika Live Music Wedding](https://music.youtube.com/watch?v=Ka3VdIxfKDc&list=RDAMVMKa3VdIxfKDc)
+- [Music Video-Makoto Shinkai / Director's Cut](https://www.youtube.com/watch?v=DHdi6HhbvfQ)
+- [Byousoku 5 Centimeter: One More Time, One More Chance](https://youtu.be/9MAYq5tKAGQ)
 
 ### Monthly
 
