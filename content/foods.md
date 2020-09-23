@@ -4,34 +4,13 @@ metaTitle: "Foods"
 metaDescription: "Foods"
 ---
 
-## Dari Halte ke Halte
+I keep track of my favorite foods
 
-- [Dari Halte ke Halte](https://www.google.com/maps/d/viewer?mid=1hzwnGubAZSHZRJqWcvyp5C2UUlAHSyqp&shorturl=1)
+## Jakarta
 
-## Ria SW - Jakarta
-
-#### Koko Bogana
-
-Jl. Cipaku I No.22 Jakarta Selatan 12170 Disamping praktek Dokter Gigi [https://goo.gl/maps/yhb62dyPoLjFHhPP6](https://goo.gl/maps/yhb62dyPoLjFHhPP6)
-
-Nasi Bogana Rp. 28500
-
-#### Warung Western
-
-Jl. Syahdan No. 36C Dekat Kampus Binus Jakarta Barat [https://goo.gl/maps/H3sHJsA9einAtdAe9](https://goo.gl/maps/H3sHJsA9einAtdAe9)
-
-#### Nasi Uduk Syahdan
-
-Buka jam 22.30 WIB Jl. Syahdan Seberang Jalan Kopi Gawe
-
-#### Soto Ceker Pak Gendut
-
-Buka jam 18.00 - 22.00 WIB Jl. Haji Agus Salim No. 34 Jakarta Pusat
-
-Soto Ceker tanpa nasi Rp 17000
-
-#### Nasi Goreng Bang Roby
-
-Jl. Haji Agus Salim No. 51A, Jakarta Pusat
-
-Nasgor Ayam Kornet Rp. 26000
+- [Cocktail Kartel](https://www.instagram.com/corteldefiomaria_/)
+- [Lumpia Semarang JKT](https://www.instagram.com/lumpiasemarang.jkt/)
+- [Smash Burger Weekend](https://www.instagram.com/smashburgerweekend/)
+- [Tahu Campur Pak Subari](https://www.whiteboardjournal.com/living/places-to-go-tahu-campur-pak-subari/)
+- [Klenger Burger Benhil](https://gofood.co.id/bahasa/jakarta/restaurant/klenger-burger-benhil-8086e79c-40fb-4b18-97e2-360e24b715cc)
+- [Kedai Kopi F/5 Cilandak](https://gofood.co.id/bahasa/jakarta/restaurant/kedai-kopi-f-5-taman-cilandak-raya-6982fa07-f487-49e5-9dfa-e46dd0a2d4ad)
