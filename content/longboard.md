@@ -22,6 +22,7 @@ metaDescription: "Longboard, Skateboard and Cruiseboard"
 
 - [Foot Breaking](https://www.youtube.com/watch?v=l3EyJPm2E6s)
 - [Learn to skate](https://www.youtube.com/playlist?list=PL34F060CE1BA3E968)
+- [How to Fall Correctly](https://youtu.be/Hundbrub8iQ)
 - [Best Longboards Beginners](https://longboardbrand.com/best-longboards-beginners)
 - [How to ride a penny skateboard](https://youtu.be/12-d4Tbs1XU)
 - [Japanese longboarding teacher](https://www.instagram.com/tatutoshi0206/?igshid=fxjeuh2evbw1)
